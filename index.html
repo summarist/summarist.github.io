@@ -29,6 +29,23 @@ p {
     }
 }
 
+a {
+    color: black;
+    font-style: italic;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: gray;
+}
+
+ul.table-of-contents {
+    list-style: none;
+    padding-left: 18px; /* =1em */
+}
+
 .canon sup {
     font-size: 12px; /* =ceil(18*(2/3)); smaller than typical default */
     vertical-align: 5px; /* =ceil(18/4); about 0.5ex */
@@ -61,7 +78,7 @@ span.small-caps { font-variant: small-caps }
     <body>
         
     <h1 class="title">Choose your language:</h1>
-    <ul>
+    <ul class="table-of-contents">
         <li>
             <a href="/en/">English</a>
         </li>
