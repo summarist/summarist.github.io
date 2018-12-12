@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -21,7 +20,9 @@ h1.title {
 }
 p {
     line-height: 1.35;   /* more legible than typical default */
-    margin-bottom: 18px; /* =1em; a clear separation between paragraphs */
+    text-indent: 27px;   /* =1.5em; sufficient but not too big */
+    margin-top: 4px;     /* barely perceptible */
+    margin-bottom: 4px;  /* barely perceptible */
 }
 @media screen and (max-width: 530px) {  /* =(495+2*18)-1 = (55ch + 2em)-1 */
     body {
@@ -54,16 +55,19 @@ ul.table-of-contents {
 .canon .intro {
     margin-left: 18px;   /* =1em; little space on the sides */
     margin-right: 18px;  /* =1em; little space on the sides */
+    margin-bottom: 24px; /* same size as line spacing */
     font-size: 17px;     /* =ceil(18*0.9), more subtle text */
 }
 .canon .license {
     border-top: 1px solid gray;
+    margin-top: 24px;    /* same size as line spacing */
+    padding-top: 24px;   /* same size as line spacing */
     text-align: center;
     font-style: italic;
 }
 
-hr.scene {
-    width: 2em;
+div.scene {
+    height: 24px;  /* same size as line spacing */
 }
 
 
