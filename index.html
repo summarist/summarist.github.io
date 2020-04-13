@@ -8,10 +8,10 @@
         <style type="text/css">
             body {
     font-family: serif;
-    font-size: 18px; /* about 13.5pt in typography terms */
+    font-size: normal; /* user's default size */
     margin-left: auto;
     margin-right: auto;
-    max-width: 495px;   /* =55*(18/2); text should be 55 characters wide */
+    max-width: 25em;   /* =55*0.45; goal: 55 characters wide */
 }
 h1.title {
     font-size: 27px;          /* =(18*1.5); smaller than typical h1 */
@@ -23,6 +23,7 @@ p {
     text-indent: 27px;   /* =1.5em; sufficient but not too big */
     margin-top: 4px;     /* barely perceptible */
     margin-bottom: 4px;  /* barely perceptible */
+    text-align: justify;
 }
 @media screen and (max-width: 530px) {  /* =(495+2*18)-1 = (55ch + 2em)-1 */
     body {
