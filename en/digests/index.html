@@ -34,13 +34,20 @@ p {
 
 a {
     color: black;
+}
+a:visited {
+    color: gray;
+}
+
+li > a {
+    color: black;
     font-style: italic;
     text-decoration: none;
 }
-a:hover {
+li > a:hover {
     text-decoration: underline;
 }
-a:visited {
+li > a:visited {
     color: gray;
 }
 
@@ -58,6 +65,11 @@ ul.table-of-contents {
     margin-right: 18px;  /* =1em; little space on the sides */
     margin-bottom: 24px; /* same size as line spacing */
     font-size: 17px;     /* =ceil(18*0.9), more subtle text */
+}
+.canon .download {
+    border-top: 1px solid gray;
+    margin-top: 24px;    /* same size as line spacing */
+    padding-top: 24px;   /* same size as line spacing */
 }
 .canon .license {
     border-top: 1px solid gray;
@@ -98,10 +110,10 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
     <h2 class="table-of-contents">Contents</h2>
     <ul class="table-of-contents">
         <li><a href="#introduction">In&shy;tro&shy;duc&shy;tion</a></li>
-<li><a href="#digest-of-priorities">Di&shy;gest of Priorities</a></li>
-<li><a href="#digest-of-virtues">Di&shy;gest of Vir&shy;tues</a></li>
-<li><a href="#digest-of-prayer">Di&shy;gest of Pray&shy;er</a></li>
-<li><a href="#digest-of-parables">Di&shy;gest of Par&shy;a&shy;bles</a></li>
+<li><a href="#priorities">Priorities</a></li>
+<li><a href="#virtues">Vir&shy;tues</a></li>
+<li><a href="#prayer">Pray&shy;er</a></li>
+<li><a href="#parables">Par&shy;a&shy;bles</a></li>
 
     </ul>
     
@@ -140,11 +152,11 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
 </p>
 
 <p>
-    <sup>1</sup>&#8239;Stud&shy;y the mes&shy;sages of those who are wide&shy;ly con&shy;sid&shy;ered to be proph&shy;ets of God.  A&shy;bridge those mes&shy;sages by selecting the teach&shy;ings that are the most prac&shy;ti&shy;cal and im&shy;por&shy;tant for guid&shy;ing my life. This be&shy;came the Di&shy;gest of Mes&shy;sages.
+    <sup>1</sup>&#8239;Stud&shy;y the mes&shy;sages of those who are wide&shy;ly con&shy;sid&shy;ered to be proph&shy;ets of God.  A&shy;bridge those mes&shy;sages by selecting the teach&shy;ings that are the most prac&shy;ti&shy;cal and im&shy;por&shy;tant for guid&shy;ing my life. This be&shy;came the Mes&shy;sages.  I re&shy;fer to them as A Mes&shy;sage through Mo&shy;ses, A Mes&shy;sage through Jesus, etc.
 </p>
 
 
-<h2 id="digest-of-priorities">Di&shy;gest of Priorities</h2>
+<h2 id="priorities">Priorities</h2>
 <p>
     <sup>1</sup>&#8239;You have rea&shy;son and con&shy;science to gov&shy;ern your choices.
     <sup>2</sup>&#8239;These priorities are a guide to keep con&shy;science with&shy;in prop&shy;er bounds.
@@ -230,7 +242,7 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
 </p>
 
 
-<h2 id="digest-of-virtues">Di&shy;gest of Vir&shy;tues</h2>
+<h2 id="virtues">Vir&shy;tues</h2>
 <p>
     <sup>1</sup>&#8239;Eve&shy;ry vir&shy;tue tak&shy;en to ex&shy;treme be&shy;comes vi&shy;ce.
     <sup>2</sup>&#8239;The vir&shy;tues be&shy;low are list&shy;ed in pairs.
@@ -265,7 +277,7 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
 </p>
 
 
-<h2 id="digest-of-prayer">Di&shy;gest of Pray&shy;er</h2>
+<h2 id="prayer">Pray&shy;er</h2>
 <p>
     <sup>1</sup>&#8239;Of&shy;fer for&shy;mal pray&shy;er one, two, or three times each day,
     <sup>2</sup>&#8239;with at least one per&shy;formed out&shy;side.
@@ -315,7 +327,7 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
 </p>
 
 
-<h2 id="digest-of-parables">Di&shy;gest of Par&shy;a&shy;bles</h2>
+<h2 id="parables">Par&shy;a&shy;bles</h2>
 <p>
     <sup>1:1</sup>&#8239;An op&shy;tom&shy;e&shy;trist ar&shy;rived in a vil&shy;lage.
     <sup>2</sup>&#8239;The res&shy;i&shy;dents each asked him for help correcting their vi&shy;sion.
@@ -505,6 +517,13 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
 </p>
 
 
+
+    <div class="download">
+        View this document as a PDF for
+        <a href="letter.pdf">printing</a>
+        or for reading on a
+        <a href="phone.pdf">mobile phone</a>.
+    </div>
 
     <div class="license">
         <p>&copy;&nbsp;2020 The Authors</p>

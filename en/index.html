@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Select Digests</title>
+        <title>Digests and Messages</title>
         
         <style type="text/css">
             body {
@@ -34,13 +34,20 @@ p {
 
 a {
     color: black;
+}
+a:visited {
+    color: gray;
+}
+
+li > a {
+    color: black;
     font-style: italic;
     text-decoration: none;
 }
-a:hover {
+li > a:hover {
     text-decoration: underline;
 }
-a:visited {
+li > a:visited {
     color: gray;
 }
 
@@ -58,6 +65,11 @@ ul.table-of-contents {
     margin-right: 18px;  /* =1em; little space on the sides */
     margin-bottom: 24px; /* same size as line spacing */
     font-size: 17px;     /* =ceil(18*0.9), more subtle text */
+}
+.canon .download {
+    border-top: 1px solid gray;
+    margin-top: 24px;    /* same size as line spacing */
+    padding-top: 24px;   /* same size as line spacing */
 }
 .canon .license {
     border-top: 1px solid gray;
@@ -89,93 +101,52 @@ q { quotes: "\201c" "\201d" "\2018" "\2019"; }
     </head>
     <body>
         
-    <h1 class="title">Select Digests</h1>
-    <ul>
+    <h1 class="title">Digests and Messages</h1>
+    <ul class="table-of-contents">
         <li>
-            <!-- attributed to the early 1200s BCE -->
-            <a href="/en/moses/">Moses</a>
-            <ul>
-                <li>
-                    <a href="/en/moses/letter.pdf">Letter</a> (PDF)
-                </li>
-                <li>
-                    <a href="/en/moses/phone.pdf">Phone</a> (PDF)
-                </li>
+            <a href="/en/digests/">Digests</a>
+            <ul class="table-of-contents">
+                <li><a href="/en/digests/#introduction">Introduction</a></li>
+                <li><a href="/en/digests/#priorities">Priorities</a></li>
+                <li><a href="/en/digests/#virtues">Virtues</a></li>
+                <li><a href="/en/digests/#prayer">Prayer</a></li>
+                <li><a href="/en/digests/#parables">Parables</a></li>
             </ul>
         </li>
 
         <li>
-            <!-- attributed to early 900s BCE -->
-            <a href="/en/david/">David</a>
-            <ul>
+            Messages
+            <ul class="table-of-contents">
                 <li>
-                    <a href="/en/david/letter.pdf">Letter</a> (PDF)
+                    <!-- attributed to the early 1200s BCE -->
+                    <a href="/en/moses/">Moses</a>
+                </li>
+
+                <li>
+                    <!-- attributed to early 900s BCE -->
+                    <a href="/en/david/">David</a>
                 </li>
                 <li>
-                    <a href="/en/david/phone.pdf">Phone</a> (PDF)
-                </li>
-            </ul>
-        </li>
-        <li>
-            <!-- attributed to late 900s BCE -->
-            <a href="/en/solomon/">Solomon</a>
-            <ul>
-                <li>
-                    <a href="/en/solomon/letter.pdf">Letter</a> (PDF)
+                    <!-- attributed to late 900s BCE -->
+                    <a href="/en/solomon/">Solomon</a>
                 </li>
                 <li>
-                    <a href="/en/solomon/phone.pdf">Phone</a> (PDF)
-                </li>
-            </ul>
-        </li>
-        <li>
-            <!-- finished about 400 BCE -->
-            <a href="/en/buddha/">Buddha</a>
-            <ul>
-                <li>
-                    <a href="/en/buddha/letter.pdf">Letter</a> (PDF)
+                    <!-- finished about 400 BCE -->
+                    <a href="/en/buddha/">Buddha</a>
                 </li>
                 <li>
-                    <a href="/en/buddha/phone.pdf">Phone</a> (PDF)
-                </li>
-            </ul>
-        </li>
-        <li>
-            <!-- finished about 60-100 AD -->
-            <a href="/en/jesus/">Jesus</a>
-            <ul>
-                <li>
-                    <a href="/en/jesus/letter.pdf">Letter</a> (PDF)
+                    <!-- finished about 60-100 AD -->
+                    <a href="/en/jesus/">Jesus</a>
                 </li>
                 <li>
-                    <a href="/en/jesus/phone.pdf">Phone</a> (PDF)
-                </li>
-            </ul>
-        </li>
-        <li>
-            <!-- finished about 421 AD -->
-            <a href="/en/mormon/">Mormon</a>
-            <ul>
-                <li>
-                    <a href="/en/mormon/letter.pdf">Letter</a> (PDF)
+                    <!-- finished about 421 AD -->
+                    <a href="/en/mormon/">Mormon</a>
                 </li>
                 <li>
-                    <a href="/en/mormon/phone.pdf">Phone</a> (PDF)
+                    <!-- finished about 632 AD -->
+                    <a href="/en/muhammad/">Muhammad</a>
                 </li>
-            </ul>
-        </li>
-        <li>
-            <!-- finished about 632 AD -->
-            <a href="/en/muhammad/">Muhammad</a>
-            <ul>
-                <li>
-                    <a href="/en/muhammad/letter.pdf">Letter</a> (PDF)
-                </li>
-                <li>
-                    <a href="/en/muhammad/phone.pdf">Phone</a> (PDF)
-                </li>
-            </ul>
-        </li>
+        </ul>
     </ul>
 
     </body>

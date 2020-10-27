@@ -34,13 +34,20 @@ p {
 
 a {
     color: black;
+}
+a:visited {
+    color: gray;
+}
+
+li > a {
+    color: black;
     font-style: italic;
     text-decoration: none;
 }
-a:hover {
+li > a:hover {
     text-decoration: underline;
 }
-a:visited {
+li > a:visited {
     color: gray;
 }
 
@@ -58,6 +65,11 @@ ul.table-of-contents {
     margin-right: 18px;  /* =1em; little space on the sides */
     margin-bottom: 24px; /* same size as line spacing */
     font-size: 17px;     /* =ceil(18*0.9), more subtle text */
+}
+.canon .download {
+    border-top: 1px solid gray;
+    margin-top: 24px;    /* same size as line spacing */
+    padding-top: 24px;   /* same size as line spacing */
 }
 .canon .license {
     border-top: 1px solid gray;
