@@ -2,8 +2,8 @@
 
      A collection of sayings of the Buddha taken
     from the Dhammapada. Verse references such as
-   ⁴² indicate the original source of the text,
-          but don't imply a full quotation.
+     ³ indicate the original source of the text,
+          but donʼt imply a full quotation.
 
 
 # Pairs
@@ -35,7 +35,7 @@ throw him who does not focus on pleasures, his sen-
 ses well controlled, moderate in his food, faithful
 and strong.
 
-⁹ He who puts on the monk's yellow robe without hav-
+⁹He who puts on the monkʼs yellow robe without hav-
 ing cleansed himself from sin, who disregards self-
 control and truth, is unworthy of the robe. ¹⁰But he
 who has cleansed himself from sin, is well grounded
@@ -140,9 +140,9 @@ out a body, and hides in the cave of the heart. Those
 who bridle it are free from the bonds of the temp-
 ter.
 
-³⁸If a man's mind is unsteady, if he does not know
+³⁸If a manʼs mind is unsteady, if he does not know
 the true law, and if his faith is troubled, then his
-knowledge will never be perfect. ³⁹If a man's mind is
+knowledge will never be perfect. ³⁹If a manʼs mind is
 free from passion, if his mind is free from ill will,
 if he is unaffected by good and evil, then there is
 danger for him.
@@ -372,7 +372,7 @@ citing one verse of law, hearing which brings peace.
 
 ¹⁰³Greater than he who conquers a thousand times a
 thousand men in battle, is he who conquerors just one
---- himself. ¹⁰⁴It is far better to conquer oneself
+— himself. ¹⁰⁴It is far better to conquer oneself
 than to conquer others. ¹⁰⁵For a man who has
 conquered himself and always lives with self-
 control, not even a god, an angel, or a demon with a
@@ -473,7 +473,7 @@ ness after death.
 to will answer you in the same way. Contentious
 speech hurts, and retaliation will come to you. ¹³⁴If
 your mind is still, like a broken gong, you have
-attained salvation, for there's no contention in you.
+attained salvation, for thereʼs no contention in you.
 
 ¹³⁵As a cowherd drives cows to pasture with a staff,
 so ageing and death drive the life of men. ¹³⁶A fool
@@ -512,17 +512,16 @@ fashion themselves.
 # Old Age
 
 ¹⁴⁶Why is there laughter and joy when this world is
-always burning? Surrounded by darkness, don't you
+always burning? Surrounded by darkness, donʼt you
 look for a light?
 
-¹⁴⁷Look at this body --- a painted image, covered
-with festering wounds, sickly, full of many thoughts
---- neither lasting nor stable. ¹⁴⁸This body is worn
-out, full of sickness, and frail. This heap of cor-
-ruption breaks to pieces, for life indeed ends with
-death. ¹⁴⁹These white bones are like gourds thrown a-
-way in the autumn. What pleasure is there in seeing
-them?
+¹⁴⁷Look at this body — a painted image, covered with
+festering wounds, sickly, full of many thoughts — nei-
+ther lasting nor stable. ¹⁴⁸This body is worn out,
+full of sickness, and frail. This heap of corruption
+breaks to pieces, for life indeed ends with death.
+¹⁴⁹These white bones are like gourds thrown away in
+the autumn. What pleasure is there in seeing them?
 
 ¹⁵⁰A city made of bones is covered with flesh and
 blood. Living in it are old age and death, pride and
@@ -561,7 +560,7 @@ not be reproached.
 
 ¹⁵⁹If a man makes himself as he teaches others to be,
 then, being himself well tamed, he may tame others.
-One's self is indeed difficult to tame.
+Oneʼs self is indeed difficult to tame.
 
 ¹⁶⁰A man is truly his own protector. Who else could
 be the protector? With self well controlled, one
@@ -582,7 +581,7 @@ fruit.
 
 ¹⁶⁵Evil is done by oneself, by oneself one is de-
 filed. Evil is left undone by oneself, by oneself is
-one purified. Purity and impurity are one's own do-
+one purified. Purity and impurity are oneʼs own do-
 ing. No one can purify another.
 
 ¹⁶⁶Let no man sacrifice his own welfare for that of
@@ -643,7 +642,7 @@ tain the chance to hear the true law, difficult is
 the birth of the awakened.
 
 ¹⁸³To avoid all evil, to cultivate good, and to puri-
-fy one's mind, that is the teaching of the awakened.
+fy oneʼs mind, that is the teaching of the awakened.
 ¹⁸⁴Patient endurance is the highest austerity. “Sal-
 vation is supreme”, say the awakened. He is no monk
 who injures others. He is no ascetic who insults
@@ -682,11 +681,11 @@ is the teaching of the true law, blessed is harmony
 in the order, blessed is the devotion of those who
 are at peace.
 
-¹⁹⁵He who reveres those who deserve reverence --- the
+¹⁹⁵He who reveres those who deserve reverence — the
 awakened ones or their disciples, who have overcome
 all obstacles, sorrow, and lamentation, ¹⁹⁶who found
-deliverance and know no fear --- his merit can never
-be measured.
+deliverance and know no fear — his merit can never be
+measured.
 
 # Happiness
 
@@ -735,7 +734,7 @@ the moon follows the path of the stars.
 itation, who forgets the goal and grasps at pleas-
 ure, will come to envy him who has exerted himself.
 
-²¹⁰Don't seek for what is pleasant or unpleasant, for
+²¹⁰Donʼt seek for what is pleasant or unpleasant, for
 it is pain not to see the pleasant, and it is pain to
 see what is unpleasant.
 
@@ -790,7 +789,7 @@ the reins.
 ²²³Overcome anger with love, evil with good, greed
 with generosity, and lies with truth. ²²⁴Speak the
 truth, do not yield to anger, and give, if asked, e-
-ven if it's only a little. By these three steps you
+ven if itʼs only a little. By these three steps you
 will go near the gods.
 
 ²²⁵The sages who harm no one, and always control
@@ -843,7 +842,7 @@ cay.
 smith removes impurities from silver one by one, lit-
 tle by little, and moment by moment. ²⁴⁰Just as rust
 destroys the iron from which it springs, so do a
-transgressor's deeds lead him to an evil destina-
+transgressorʼs deeds lead him to an evil destina-
 tion.
 
 ²⁴¹The impurity of prayers is not reciting them. The
@@ -865,7 +864,7 @@ est man, who always seeks purity, is disinterested,
 quiet, spotless, and observant.
 
 ²⁴⁶He who destroys life, speaks lies, takes what is
-not given, goes to another man's wife, ²⁴⁷and gives
+not given, goes to another manʼs wife, ²⁴⁷and gives
 himself to intoxicating liquor, he digs up his own
 root here in this world. ²⁴⁸Know this, good man, that
 evil is hard to control. Do not let greed and vice
@@ -881,7 +880,7 @@ destroyed, finds rest by day and night.
 tred, no snare like delusion, no river like craving.
 
 ²⁵²It is easy to see the faults of others, but diffi-
-cult to see one's own. A man winnows the faults of
+cult to see oneʼs own. A man winnows the faults of
 others like chaff, but hides his own, like a cheat
 hides an unlucky throw of the dice. ²⁵³If a man fo-
 cuses on the errors of others, and is always in-
@@ -964,7 +963,7 @@ preached this path.
 
 ²⁷⁶You yourself must make an effort. Buddhas only
 show the way. The thoughtful who follow the path are
-freed from the tempter's bonds.
+freed from the tempterʼs bonds.
 
 ²⁷⁷“All created things are temporary.” He who sees
 and knows this turns away from pain. This is the path
@@ -1056,7 +1055,7 @@ the solitude of the forest.
 
 # Hell
 
-³⁰⁶He goes to hell, the one who asserts what didn't
+³⁰⁶He goes to hell, the one who asserts what didnʼt
 happen, and the one who did a thing but says, “I have
 not done it”. They are both evildoers, and are equal
 in the next world.
@@ -1068,13 +1067,13 @@ low an iron ball, red-hot and aflame, than for an im-
 moral, unrestrained man to eat the alms of the peo-
 ple.
 
-³⁰⁹A wreckless man who lies down with his neighbor's
+³⁰⁹A wreckless man who lies down with his neighborʼs
 wife gains four things: a bad reputation, poor sleep,
 punishment, and hell. ³¹⁰Th+ere is bad reputation, an
 evil destination, the brief pleasure of the fright-
 ened man and woman, and the king imposes a heavy pun-
 ishment. Therefore, let no man lie down with his
-neighbor's wife.
+neighborʼs wife.
 
 ³¹¹Just as a blade of grass, if wrongly handled, cuts
 the hand, so does asceticism, if wrongly practised,
