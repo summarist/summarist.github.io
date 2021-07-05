@@ -6,673 +6,556 @@
         <title>Moses</title>
         <style type="text/css">
             body {
-    font-family: serif;
-    font-size: medium; /* user's default size */
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 25em;   /* =55*0.45; goal: 55 characters wide */
-}
-h1.title {
-    font-size: 27px;          /* =(18*1.5); smaller than typical h1 */
-    font-variant: small-caps;
-    text-align: center;
-}
-p {
-    line-height: 1.35;   /* more legible than typical default */
-    text-indent: 27px;   /* =1.5em; sufficient but not too big */
-    margin-top: 4px;     /* barely perceptible */
-    margin-bottom: 4px;  /* barely perceptible */
-    text-align: justify;
-}
-@media screen and (max-width: 530px) {  /* =(495+2*18)-1 = (55ch + 2em)-1 */
-    body {
-        margin-left: 18px;  /* =1em; a comfortable minimum margin size */
-        margin-right: 18px;
-    }
-}
+                font-family: serif;
+                font-size: medium;  
+                margin-left: auto;
+                margin-right: auto;
+                max-width: 25em;    
+            }
+            h1.title {
+                font-size: 27px;   
+                font-variant: small-caps;
+                text-align: center;
+            }
+            p {
+                line-height: 1.35;    
+                text-indent: 27px;    
+                margin-top: 4px;      
+                margin-bottom: 4px;   
+                text-align: justify;
+            }
+            @media screen and (max-width: 530px) {   
+                body {
+                    margin-left: 18px;   
+                    margin-right: 18px;
+                }
+            }
 
-a {
-    color: black;
-}
-a:visited {
-    color: gray;
-}
+            a {
+                color: black;
+            }
+            a:visited {
+                color: gray;
+            }
 
-li > a {
-    color: black;
-    font-style: italic;
-    text-decoration: none;
-}
-li > a:hover {
-    text-decoration: underline;
-}
-li > a:visited {
-    color: gray;
-}
+            li > a {
+                color: black;
+                font-style: italic;
+                text-decoration: none;
+            }
+            li > a:hover {
+                text-decoration: underline;
+            }
+            li > a:visited {
+                color: gray;
+            }
 
-ul.table-of-contents {
-    list-style: none;
-    padding-left: 18px; /* =1em */
-}
+            ul.table-of-contents {
+                list-style: none;
+                padding-left: 18px;  
+            }
 
-.canon sup {
-    font-size: 12px; /* =ceil(18*(2/3)); smaller than typical default */
-    vertical-align: 5px; /* =ceil(18/4); about 0.5ex */
-}
-.canon .intro {
-    margin-left: 18px;   /* =1em; little space on the sides */
-    margin-right: 18px;  /* =1em; little space on the sides */
-    margin-bottom: 24px; /* same size as line spacing */
-    font-size: 17px;     /* =ceil(18*0.9), more subtle text */
-    text-align: center;
-    font-style: italic;
-}
-.canon .download {
-    border-top: 1px solid gray;
-    margin-top: 24px;    /* same size as line spacing */
-    padding-top: 24px;   /* same size as line spacing */
-}
-.canon .license {
-    border-top: 1px solid gray;
-    margin-top: 24px;    /* same size as line spacing */
-    padding-top: 24px;   /* same size as line spacing */
-    text-align: center;
-    font-style: italic;
-}
-.canon .license p {
-    text-indent: 0px;
-    margin-bottom: 2ex;
-}
+            .canon sup {
+                font-size: 12px;  
+                vertical-align: 5px;  
+            }
+            .canon .intro {
+                margin-left: 18px;    
+                margin-right: 18px;   
+                margin-bottom: 24px;  
+                font-size: 17px;      
+                text-align: center;
+                font-style: italic;
+            }
+            .canon .download {
+                border-top: 1px solid gray;
+                margin-top: 24px;     
+                padding-top: 24px;    
+            }
+            .canon .license {
+                border-top: 1px solid gray;
+                margin-top: 24px;     
+                padding-top: 24px;    
+                text-align: center;
+                font-style: italic;
+            }
+            .canon .license p {
+                text-indent: 0px;
+                margin-bottom: 2ex;
+            }
 
-div.scene {
-    height: 24px;  /* same size as line spacing */
-}
-
-
-div.centered { text-align: center; }
-
-em.italic { font-style: italic; }
-
-span.small-caps { font-variant: small-caps }
-
-q { quotes: "\201c" "\201d" "\2018" "\2019"; }
-
-
+            div.scene {
+                height: 24px;   
+            }
         </style>
     </head>
     <body>
-        
-<h1 class="title">Moses</h1>
 
-<div class="canon moses">
-    
-    <div class="intro">
-        An abridgment of the Book of Deuteronomy.
-        Verse references such as
-        &nbsp;<sup>5:6</sup>&#8239;indicate
-        the original source of the text, but
-        don&#x02BC;t imply a full quotation.
-    </div>
-    
-    
-    
-<p>
-    <sup>5:1</sup>&#8239;Mo&shy;ses sum&shy;moned all Israel and said to them, Hear the stat&shy;utes and or&shy;di&shy;nances that I speak to&shy;day. Learn them and ob&shy;serve them care&shy;ful&shy;ly.
-    <sup>2</sup>&#8239;<span class="small-caps">God</span> made a cov&shy;e&shy;nant with us.
-    <sup>3</sup>&#8239;<span class="small-caps">God</span> did not make this cov&shy;e&shy;nant with our fa&shy;thers.
-    <sup>4</sup>&#8239;<span class="small-caps">God</span> spoke with you on the moun&shy;tain, say&shy;ing,
-</p>
-
-<p>
-    <sup>5:6</sup>&#8239;I am <span class="small-caps">God</span>, who brought you out of the land of Egypt, out of the house of slav&shy;er&shy;y.
-    <sup>7</sup>&#8239;Don&#x02BC;t have oth&shy;er gods be&shy;fore me.
-    <sup>8</sup>&#8239;Don&#x02BC;t make an i&shy;dol for your&shy;self in the form of any&shy;thing in the heav&shy;ens or on the earth or in the wa&shy;ters.
-    <sup>9</sup>&#8239;Don&#x02BC;t wor&shy;ship them or serve them, for I am a jeal&shy;ous god, visiting the in&shy;iq&shy;ui&shy;ty of the fa&shy;thers on the chil&shy;dren to the third and fourth gen&shy;er&shy;a&shy;tion,
-    <sup>10</sup>&#8239;but show&shy;ing love to thou&shy;sands who love me and keep my com&shy;mand&shy;ments.
-</p>
-
-<p>
-    <sup>5:11</sup>&#8239;Don&#x02BC;t mis&shy;use the name of <span class="small-caps">God</span>.
-</p>
-
-<p>
-    <sup>5:12</sup>&#8239;Ob&shy;serve the sabbath day by keep&shy;ing it ho&shy;ly.
-    <sup>13</sup>&#8239;La&shy;bor six days and do all your work,
-    <sup>14</sup>&#8239;but the sev&shy;enth day is a sabbath to <span class="small-caps">God</span>. On it you shall not do any work: nei&shy;ther you, your chil&shy;dren, your serv&shy;ant, your live&shy;stock, nor any for&shy;eign&shy;er liv&shy;ing a&shy;mong you, that they may rest as you do.
-    <sup>15</sup>&#8239;Re&shy;mem&shy;ber that you were slaves in Egypt, and that <span class="small-caps">God</span> brought you out. There&shy;fore, <span class="small-caps">God</span> com&shy;manded you to keep the sabbath day.
-</p>
-
-<p>
-    <sup>5:16</sup>&#8239;Hon&shy;or your par&shy;ents so that you may live long and that it may go well with you in the land that <span class="small-caps">God</span> is giv&shy;ing you.
-</p>
-
-<p>
-    <sup>5:17</sup>&#8239;Don&#x02BC;t mur&shy;der.
-    <sup>18</sup>&#8239;Don&#x02BC;t com&shy;mit a&shy;dul&shy;ter&shy;y.
-    <sup>19</sup>&#8239;Don&#x02BC;t steal.
-    <sup>20</sup>&#8239;Don&#x02BC;t give false tes&shy;ti&shy;mo&shy;ny a&shy;gainst your neigh&shy;bor.
-    <sup>21</sup>&#8239;Don&#x02BC;t cov&shy;et your neigh&shy;bor&#x02BC;s wife, house, field, serv&shy;ants, live&shy;stock, or any&shy;thing that be&shy;longs to your neigh&shy;bor.
-</p>
-
-<p>
-    <sup>5:32</sup>&#8239;Be care&shy;ful to do as <span class="small-caps">God</span> has com&shy;manded you. Don&#x02BC;t turn a&shy;side to the right or to the left.
-    <sup>33</sup>&#8239;Walk on the path which <span class="small-caps">God</span> has com&shy;manded you, that you may live, pros&shy;per, and pro&shy;long your days in the land that you will pos&shy;sess.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>6:5</sup>&#8239;Love <span class="small-caps">God</span> with all your heart, soul, and stren&shy;gth.
-    <sup>6</sup>&#8239;These words that I com&shy;mand you to&shy;day shall be on your heart.
-</p>
-
-<p>
-    <sup>6:10</sup>&#8239;When <span class="small-caps">God</span> brings you in&shy;to the land that he swore to your fa&shy;thers Abraham, Isaac, and Jacob that he would give you &mdash; a land with large and splen&shy;did cit&shy;ies,
-    <sup>11</sup>&#8239;hous&shy;es filled with eve&shy;ry good thing, cis&shy;terns, vine&shy;yards, and ol&shy;ive trees &mdash; when you eat and are sat&shy;is&shy;fied,
-    <sup>12</sup>&#8239;then be care&shy;ful not to for&shy;get <span class="small-caps">God</span>.
-</p>
-
-<p>
-    <sup>6:14</sup>&#8239;Don&#x02BC;t fol&shy;low oth&shy;er gods, the gods of the peo&shy;ple a&shy;round you,
-    <sup>15</sup>&#8239;lest the an&shy;ger of <span class="small-caps">God</span> be kindled a&shy;gainst you, and de&shy;stroy you from the face of the earth.
-</p>
-
-<p>
-    <sup>6:20</sup>&#8239;When your son asks you, <q>What is the mean&shy;ing of the testimonies, the stat&shy;utes, and the rules that <span class="small-caps">God</span> has com&shy;manded you?</q>
-    <sup>21</sup>&#8239;tell him, <q>We were slaves to Pharaoh in Egypt, but <span class="small-caps">God</span> brought us out of Egypt.
-    <sup>23</sup>&#8239;He brought us out from there in or&shy;der to give us the land that he swore to our fa&shy;thers.
-    <sup>24</sup>&#8239;So <span class="small-caps">God</span> com&shy;manded us to ob&shy;serve all these stat&shy;utes and to fear <span class="small-caps">God</span> for our good and our sur&shy;viv&shy;al.</q>
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>7:1</sup>&#8239;When <span class="small-caps">God</span> brings you in&shy;to the land, and clears a&shy;way man&shy;y na&shy;tions be&shy;fore you,
-    <sup>3</sup>&#8239;don&#x02BC;t in&shy;ter&shy;mar&shy;ry with them.
-    <sup>4</sup>&#8239;They will turn your chil&shy;dren a&shy;way from me, to wor&shy;ship oth&shy;er gods.
-</p>
-
-<p>
-    <sup>7:7</sup>&#8239;<span class="small-caps">God</span> didn&#x02BC;t choose you be&shy;cause you were more nu&shy;mer&shy;ous than oth&shy;er peo&shy;ple,
-    <sup>8</sup>&#8239;but be&shy;cause <span class="small-caps">God</span> loves you and is keep&shy;ing the oath that he swore to your fa&shy;thers.
-</p>
-
-<p>
-    <sup>7:12</sup>&#8239;If you lis&shy;ten to and care&shy;ful&shy;ly keep these or&shy;di&shy;nances, <span class="small-caps">God</span> will keep the cov&shy;e&shy;nant of love with you that he swore to your fa&shy;thers.
-    <sup>13</sup>&#8239;He will love you, bless you, and mul&shy;ti&shy;ply you. He will bless the fruit of your womb, the crops of your land, and the in&shy;crease of your herd.
-</p>
-
-<p>
-    <sup>7:17</sup>&#8239;If you say in your heart, <q>These na&shy;tions are greater than I. How can I dis&shy;pos&shy;sess them?</q>
-    <sup>18</sup>&#8239;Don&#x02BC;t be a&shy;fraid of them.  Re&shy;mem&shy;ber what <span class="small-caps">God</span> did to Pharaoh and to all Egypt.
-    <sup>21</sup>&#8239;Don&#x02BC;t dread them, for <span class="small-caps">God</span> is a&shy;mong you, a great and awe&shy;some god.
-    <sup>22</sup>&#8239;<span class="small-caps">God</span> will clear a&shy;way these na&shy;tions be&shy;fore you lit&shy;tle by lit&shy;tle. You will not e&shy;lim&shy;i&shy;nate them all at once, lest the wild an&shy;i&shy;mals be&shy;come too nu&shy;mer&shy;ous for you.
-    <sup>25</sup>&#8239;Burn the carved im&shy;ages of their gods. Don&#x02BC;t cov&shy;et the sil&shy;ver or gold that is on them, nor take it for your&shy;self, lest you be en&shy;snared by it.
-    <sup>26</sup>&#8239;Don&#x02BC;t bring an a&shy;bom&shy;i&shy;na&shy;tion in&shy;to your house, lest you be set a&shy;part for de&shy;struc&shy;tion. In&shy;stead, utterly de&shy;test it and ab&shy;hor it.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>8:2</sup>&#8239;Re&shy;mem&shy;ber how <span class="small-caps">God</span> led you these for&shy;ty years in the wil&shy;der&shy;ness, to hum&shy;ble you, and to test what was in your heart, wheth&shy;er you would keep his com&shy;mand&shy;ments.
-    <sup>3</sup>&#8239;He humbled you, let you go hun&shy;gry, then fed you with man&shy;na, which nei&shy;ther you nor your fa&shy;thers had known, to teach you that man does not live by bread a&shy;lone, but by eve&shy;ry word that co&shy;mes from the mouth of <span class="small-caps">God</span>.
-    <sup>5</sup>&#8239;Know in your heart that <span class="small-caps">God</span> dis&shy;ci&shy;plines you just as a man dis&shy;ci&shy;plines his son.
-    <sup>6</sup>&#8239;There&shy;fore keep the com&shy;mand&shy;ments of <span class="small-caps">God</span> by walk&shy;ing in his ways and by fearing him.
-    <sup>10</sup>&#8239;When you&#x02BC;ve eat&shy;en and are sat&shy;is&shy;fied, then bless <span class="small-caps">God</span> for the good land he has giv&shy;en you.
-</p>
-
-<p>
-    <sup>8:11</sup>&#8239;Be care&shy;ful not to for&shy;get <span class="small-caps">God</span>, by fail&shy;ing to keep his com&shy;mand&shy;ments, his or&shy;di&shy;nances, and his stat&shy;utes.
-    <sup>12</sup>&#8239;Oth&shy;er&shy;wise, once you&#x02BC;ve eat&shy;en and are sat&shy;is&shy;fied, and have built good hous&shy;es to live in,
-    <sup>13</sup>&#8239;and when your herds mul&shy;ti&shy;ply, and your sil&shy;ver and gold mul&shy;ti&shy;ply, and eve&shy;ry&shy;thing you have multiplies,
-    <sup>14</sup>&#8239;then your heart will be&shy;come proud, and you will for&shy;get <span class="small-caps">God</span>,
-    <sup>17</sup>&#8239;and you may say in your heart, <q>My pow&shy;er and the strength of my hand has made me this wealth.</q>
-    <sup>18</sup>&#8239;But re&shy;mem&shy;ber that <span class="small-caps">God</span> gives you pow&shy;er to make wealth in or&shy;der to con&shy;firm his cov&shy;e&shy;nant.
-    <sup>19</sup>&#8239;If you for&shy;get <span class="small-caps">God</span>, fol&shy;low oth&shy;er gods, serve them, and wor&shy;ship them, I tes&shy;ti&shy;fy a&shy;gainst you to&shy;day that you will sure&shy;ly per&shy;ish.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>9:4</sup>&#8239;Once <span class="small-caps">God</span> has driv&shy;en the peo&shy;ple out be&shy;fore you, don&#x02BC;t say in your heart, <q><span class="small-caps">God</span> brought me in to pos&shy;sess this land be&shy;cause of my right&shy;eous&shy;ness.</q> In&shy;stead, <span class="small-caps">God</span> drives them out be&shy;cause of their wick&shy;ed&shy;ness.
-    <sup>6</sup>&#8239;Un&shy;der&shy;stand that <span class="small-caps">God</span> isn&#x02BC;t giv&shy;ing you this good land be&shy;cause of your right&shy;eous&shy;ness, for you are a stub&shy;born peo&shy;ple.
-    <sup>7</sup>&#8239;Don&#x02BC;t for&shy;get how you pro&shy;voked <span class="small-caps">God</span> in the wil&shy;der&shy;ness. From the day you de&shy;part&shy;ed Egypt un&shy;til you ar&shy;rived in this place, you have been re&shy;bel&shy;lious a&shy;gainst <span class="small-caps">God</span>.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>10:17</sup>&#8239;<span class="small-caps">God</span> is not par&shy;tial and takes no bribe.
-    <sup>18</sup>&#8239;He ex&shy;e&shy;cutes jus&shy;tice for or&shy;phans and wid&shy;ows, and loves the for&shy;eign&shy;er by giv&shy;ing him food and cloth&shy;ing.
-    <sup>19</sup>&#8239;There&shy;fore, love the for&shy;eign&shy;er, for you were for&shy;eign&shy;ers in Egypt.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>11:2</sup>&#8239;Re&shy;mem&shy;ber that your chil&shy;dren didn&#x02BC;t ex&shy;pe&shy;ri&shy;ence the dis&shy;ci&shy;pline of <span class="small-caps">God</span>; his works which he did in Egypt;
-    <sup>4</sup>&#8239;what he did to the ar&shy;my of Egypt; how he made the wa&shy;ter of the Red sea en&shy;gulf them as they pur&shy;sued you;
-    <sup>5</sup>&#8239;and what he did to you in the wil&shy;der&shy;ness, un&shy;til you reached this place;
-    <sup>7</sup>&#8239;but your eyes have seen eve&shy;ry great work <span class="small-caps">God</span> has done.
-</p>
-
-<p>
-    <sup>11:16</sup>&#8239;Be care&shy;ful not to be en&shy;ticed to turn a&shy;side and serve oth&shy;er gods and wor&shy;ship them.
-    <sup>18</sup>&#8239;There&shy;fore im&shy;print my words on your heart and on your soul, bind them as a sign on your hand, and wear them on your fore&shy;heads.
-    <sup>19</sup>&#8239;Teach them to your chil&shy;dren, speak of them when you sit in your house, when you walk a&shy;long the road, when you lie down, and when you get up.
-    <sup>20</sup>&#8239;Write them on the door&shy;posts of your house and on your gates,
-    <sup>21</sup>&#8239;that your days, and the days of your chil&shy;dren, may be mul&shy;ti&shy;plied as long as the heav&shy;ens are a&shy;bove the earth.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>12:4</sup>&#8239;Don&#x02BC;t wor&shy;ship <span class="small-caps">God</span> in the same way as the na&shy;tions you dis&shy;pos&shy;sess.
-    <sup>5</sup>&#8239;In&shy;stead, seek the place where <span class="small-caps">God</span> chooses to es&shy;tab&shy;lish his name. Go there
-    <sup>6</sup>&#8239;and bring your burnt of&shy;fer&shy;ings, your sac&shy;ri&shy;fices, your tithes, your con&shy;tri&shy;bu&shy;tions, your vow of&shy;fer&shy;ings, your free&shy;will of&shy;fer&shy;ings, and the firstborn of your live&shy;stock.
-    <sup>7</sup>&#8239;There, in the pres&shy;ence of <span class="small-caps">God</span>, you and your families will eat and re&shy;joice in eve&shy;ry&shy;thing you un&shy;der&shy;take, be&shy;cause <span class="small-caps">God</span> has bless&shy;ed you.
-</p>
-
-<p>
-    <sup>12:20</sup>&#8239;When <span class="small-caps">God</span> en&shy;larges your ter&shy;ri&shy;to&shy;ry as he has prom&shy;ised you, and you say, <q>I want to eat meat,</q> you may eat meat when&shy;ev&shy;er you want.
-</p>
-
-<p>
-    <sup>12:29</sup>&#8239;When <span class="small-caps">God</span> cuts off the na&shy;tions be&shy;fore you, and you live in their land,
-    <sup>30</sup>&#8239;be care&shy;ful not to be en&shy;snared by their ways,
-    <sup>31</sup>&#8239;for they have done eve&shy;ry de&shy;test&shy;a&shy;ble act for their gods; e&shy;ven burn&shy;ing their chil&shy;dren as sac&shy;ri&shy;fices.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>13:1</sup>&#8239;If a proph&shy;et a&shy;rises a&shy;mong you, and gives you a sign or a won&shy;der,
-    <sup>2</sup>&#8239;and it co&shy;mes true, but he says, <q>Let us fol&shy;low oth&shy;er gods and wor&shy;ship them,</q>
-    <sup>3</sup>&#8239;don&#x02BC;t lis&shy;ten to that proph&shy;et. For <span class="small-caps">God</span> is testing you to find out wheth&shy;er you love <span class="small-caps">God</span> with all your heart and with all your soul.
-</p>
-
-<p>
-    <sup>13:6</sup>&#8239;If your broth&shy;er, child, wife, or friend se&shy;cret&shy;ly en&shy;tices you, say&shy;ing, <q>Let us wor&shy;ship oth&shy;er gods,</q>
-    <sup>8</sup>&#8239;don&#x02BC;t yield to him and don&#x02BC;t lis&shy;ten to him.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>14:22</sup>&#8239;Set a&shy;side a tenth of the pro&shy;duce that is har&shy;vested from your fields each year.
-    <sup>23</sup>&#8239;Eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your live&shy;stock be&shy;fore <span class="small-caps">God</span>, in the place where he chooses to es&shy;tab&shy;lish his name, so that you may learn to fear <span class="small-caps">God</span> al&shy;ways.
-</p>
-
-<p>
-    <sup>14:24</sup>&#8239;If the dis&shy;tance is so great that you can&#x02BC;t car&shy;ry it,
-    <sup>25</sup>&#8239;then turn it in&shy;to mon&shy;ey and take the mon&shy;ey to the place where <span class="small-caps">God</span> chooses to es&shy;tab&shy;lish his name.
-    <sup>26</sup>&#8239;Spend the mon&shy;ey for what&shy;ev&shy;er you want, for ox&shy;en, or sheep, or wine, or strong drink. Eat it be&shy;fore <span class="small-caps">God</span> and re&shy;joice, you and your house&shy;hold.
-    <sup>27</sup>&#8239;Don&#x02BC;t ne&shy;glect the Levite who is in your town, for he has no por&shy;tion or in&shy;her&shy;it&shy;ance with you.
-</p>
-
-<p>
-    <sup>14:28</sup>&#8239;At the end of eve&shy;ry third year, bring all the tithe of that year&#x02BC;s pro&shy;duce and store it in your town.
-    <sup>29</sup>&#8239;The Levite, the for&shy;eign&shy;er, the fa&shy;ther&shy;less, and the wid&shy;ow in your town shall come and eat and be sat&shy;is&shy;fied, so that <span class="small-caps">God</span> may bless you in all your work.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>15:1</sup>&#8239;At the end of eve&shy;ry sev&shy;enth year, can&shy;cel debts.
-    <sup>2</sup>&#8239;Eve&shy;ry cred&shy;i&shy;tor must can&shy;cel the loans he made to his neigh&shy;bor. He must not de&shy;mand pay&shy;ment from his neigh&shy;bor.
-    <sup>3</sup>&#8239;You may re&shy;quire pay&shy;ment from a for&shy;eign&shy;er, but you must for&shy;give what&shy;ev&shy;er your broth&shy;er owes you.
-    <sup>6</sup>&#8239;For <span class="small-caps">God</span> will bless you, as he has prom&shy;ised. You will lend to man&shy;y na&shy;tions, but you will not bor&shy;row. You will rule man&shy;y na&shy;tions, but none will rule you.
-</p>
-
-<p>
-    <sup>15:7</sup>&#8239;If there is a poor man a&shy;mong you, in any of your towns, don&#x02BC;t hard&shy;en your heart or shut your hand to&shy;wards him.
-    <sup>8</sup>&#8239;In&shy;stead, o&shy;pen your hand to him and lend him suf&shy;fi&shy;cient for his need, what&shy;ev&shy;er it may be.
-</p>
-
-<p>
-    <sup>15:9</sup>&#8239;Be care&shy;ful not to have this wick&shy;ed thought: <q>The sev&shy;enth year, the year of re&shy;lease, is near,</q> and you look grudg&shy;ing&shy;ly on your poor broth&shy;er and give him noth&shy;ing. He will cry to <span class="small-caps">God</span> a&shy;gainst you, and you will be guilt&shy;y.
-    <sup>10</sup>&#8239;Give gen&shy;er&shy;ous&shy;ly to him with&shy;out a grudg&shy;ing heart. Be&shy;cause of this <span class="small-caps">God</span> will bless you in eve&shy;ry&shy;thing you do.
-    <sup>11</sup>&#8239;There will al&shy;ways be poor peo&shy;ple in the land. There&shy;fore free&shy;ly o&shy;pen your hand to your broth&shy;er, to the poor, and to the needy.
-</p>
-
-<p>
-    <sup>15:12</sup>&#8239;If a fel&shy;low Hebrew is sold to you, and serves you for six years, free him in the sev&shy;enth year.
-    <sup>13</sup>&#8239;When you free him, don&#x02BC;t send him a&shy;way emp&shy;ty-handed.
-    <sup>14</sup>&#8239;Fur&shy;nish him lib&shy;er&shy;al&shy;ly from your flock, from your threshing floor, and from your wine&shy;press. Give to him as <span class="small-caps">God</span> has bless&shy;ed you.
-    <sup>15</sup>&#8239;Re&shy;mem&shy;ber that you were a slave in Egypt, and <span class="small-caps">God</span> re&shy;deemed you. That is why I am giv&shy;ing you this com&shy;mand.
-    <sup>18</sup>&#8239;Don&#x02BC;t con&shy;sid&shy;er it a hard&shy;ship when you set him free, for he served you six years at half the cost of a hired serv&shy;ant. <span class="small-caps">God</span> will bless you in all you do.
-</p>
-
-<p>
-    <sup>15:19</sup>&#8239;Ded&shy;i&shy;cate to <span class="small-caps">God</span> eve&shy;ry firstborn male of your live&shy;stock. Do no work with the firstborn of your herd, nor shear the firstborn of your flock.
-    <sup>20</sup>&#8239;Each year you and your fam&shy;i&shy;ly are to eat it be&shy;fore <span class="small-caps">God</span> in the place <span class="small-caps">God</span> chooses.
-    <sup>21</sup>&#8239;If it has any de&shy;fect, is lame or blind, don&#x02BC;t sac&shy;ri&shy;fice it to <span class="small-caps">God</span>.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>16:1</sup>&#8239;Ob&shy;serve the month of Aviv and cel&shy;e&shy;brate the Passover to <span class="small-caps">God</span>, for in the month of Aviv <span class="small-caps">God</span> brought you out of Egypt by night.
-    <sup>3</sup>&#8239;For sev&shy;en days you are to eat un&shy;leav&shy;ened bread&mdash;because you left Egypt in haste&mdash;so that you may re&shy;mem&shy;ber the day you left Egypt for the rest of your life.
-    <sup>4</sup>&#8239;Let no yeast be found in your ter&shy;ri&shy;to&shy;ry for sev&shy;en days.
-    <sup>6</sup>&#8239;Sac&shy;ri&shy;fice the Passover at sun&shy;set, at the time you came out of Egypt.
-    <sup>8</sup>&#8239;On the sev&shy;enth day hold a sol&shy;emn as&shy;sem&shy;bly to <span class="small-caps">God</span>, and do no work.
-</p>
-
-<p>
-    <sup>16:9</sup>&#8239;Sev&shy;en weeks af&shy;ter you start the grain har&shy;vest,
-    <sup>10</sup>&#8239;cel&shy;e&shy;brate the Feast of Weeks to <span class="small-caps">God</span> by giv&shy;ing a free&shy;will of&shy;fer&shy;ing in pro&shy;por&shy;tion to how <span class="small-caps">God</span> has bless&shy;ed you.
-    <sup>11</sup>&#8239;Re&shy;joice be&shy;fore <span class="small-caps">God</span>; you, your chil&shy;dren, your serv&shy;ants, and the Levites in your town; the for&shy;eign&shy;er, the or&shy;phan, and the wid&shy;ow, who are a&shy;mong you.
-</p>
-
-<p>
-    <sup>16:13</sup>&#8239;Cel&shy;e&shy;brate the Feast of Tab&shy;er&shy;nac&shy;les for sev&shy;en days af&shy;ter gath&shy;er&shy;ing the pro&shy;duce from your threshing floor and wine&shy;press.
-    <sup>14</sup>&#8239;Re&shy;joice dur&shy;ing your feast; you, your chil&shy;dren, your serv&shy;ants, and the Levites; the strang&shy;er, the or&shy;phan, and the wid&shy;ow who are a&shy;mong you.
-    <sup>15</sup>&#8239;Cel&shy;e&shy;brate the feast to <span class="small-caps">God</span> for sev&shy;en days, be&shy;cause <span class="small-caps">God</span> will bless you in all your pro&shy;duce and in all the work of your hands, so that you will be al&shy;to&shy;geth&shy;er joy&shy;ful.
-</p>
-
-<p>
-    <sup>16:16</sup>&#8239;All males must ap&shy;pear three times a year be&shy;fore <span class="small-caps">God</span> where he chooses: at the Feast of Un&shy;leav&shy;ened Bread, the Feast of Weeks, and the Feast of Tab&shy;er&shy;nac&shy;les. None shall ap&shy;pear be&shy;fore <span class="small-caps">God</span> emp&shy;ty-handed.
-    <sup>17</sup>&#8239;Each of you must bring a gift in pro&shy;por&shy;tion to how <span class="small-caps">God</span> has bless&shy;ed you.
-</p>
-
-<p>
-    <sup>16:18</sup>&#8239;Ap&shy;point judges and of&shy;fic&shy;ers for your tribes in all your towns. They shall judge the peo&shy;ple right&shy;eous&shy;ly.
-    <sup>19</sup>&#8239;Don&#x02BC;t per&shy;vert jus&shy;tice or be par&shy;tial.  Don&#x02BC;t take a bribe, for it blinds the wise and twists the words of the right&shy;eous.
-    <sup>20</sup>&#8239;Pur&shy;sue jus&shy;tice, and on&shy;ly jus&shy;tice.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>17:1</sup>&#8239;Don&#x02BC;t sac&shy;ri&shy;fice to <span class="small-caps">God</span> an ox or a sheep with any blem&shy;ish or de&shy;fect, for that is de&shy;test&shy;a&shy;ble to <span class="small-caps">God</span>.
-</p>
-
-<p>
-    <sup>17:2</sup>&#8239;If any&shy;one in any of your towns
-    <sup>3</sup>&#8239;has wor&shy;shiped oth&shy;er gods,
-    <sup>4</sup>&#8239;and if you hear a&shy;bout it, then in&shy;ves&shy;ti&shy;gate dil&shy;i&shy;gent&shy;ly.  If it is true and cer&shy;tain,
-    <sup>5</sup>&#8239;bring him to your cit&shy;y gates and stone him to death.
-    <sup>6</sup>&#8239;He shall be put to death on the tes&shy;ti&shy;mo&shy;ny of two or three witnesses, but not on the tes&shy;ti&shy;mo&shy;ny of one wit&shy;ness.
-    <sup>7</sup>&#8239;The hands of the witnesses shall be first a&shy;gainst him to put him to death, and af&shy;ter&shy;ward the hands of all the peo&shy;ple.
-</p>
-
-<p>
-    <sup>17:8</sup>&#8239;If a case is too dif&shy;fi&shy;cult for you to judge, wheth&shy;er hom&shy;i&shy;cide, law&shy;suit, or as&shy;sault, then go to the place <span class="small-caps">God</span> chooses,
-    <sup>9</sup>&#8239;and ask the priests or the judge who is in of&shy;fice, and they will give you the ver&shy;dict.
-    <sup>10</sup>&#8239;You must a&shy;bide by the ver&shy;dict they give you.  Be care&shy;ful to do eve&shy;ry&shy;thing they tell you.
-</p>
-
-<p>
-    <sup>17:14</sup>&#8239;When you en&shy;ter the land <span class="small-caps">God</span> is giv&shy;ing you, and you pos&shy;sess it, and live in it, and say, <q>I will set a king o&shy;ver me like all the na&shy;tions a&shy;round me,</q>
-    <sup>15</sup>&#8239;ap&shy;point a king whom <span class="small-caps">God</span> chooses, one from a&shy;mong your broth&shy;ers.  Don&#x02BC;t ap&shy;point a for&shy;eign&shy;er who is not your broth&shy;er.
-    <sup>16</sup>&#8239;He must not ac&shy;quire man&shy;y hors&shy;es for him&shy;self or send the peo&shy;ple to Egypt to ac&shy;quire man&shy;y hors&shy;es. For <span class="small-caps">God</span> has told you, <q>Nev&shy;er re&shy;turn that way a&shy;gain.</q>
-    <sup>17</sup>&#8239;He must not ac&shy;quire man&shy;y wives for him&shy;self, lest his heart go a&shy;stray.  He must not ac&shy;quire ex&shy;ces&shy;sive sil&shy;ver and gold for him&shy;self.
-</p>
-
-<p>
-    <sup>17:18</sup>&#8239;When he sits on the throne, he must write for him&shy;self a cop&shy;y of this law, in the pres&shy;ence of the Levites.
-    <sup>19</sup>&#8239;He must read from it all the days of his life, so he may learn to fear <span class="small-caps">God</span> by ob&shy;serv&shy;ing this law and these stat&shy;utes,
-    <sup>20</sup>&#8239;lest his heart be lifted up a&shy;bove his countrymen or he turn a&shy;side from the com&shy;mand&shy;ment.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>18:9</sup>&#8239;When you en&shy;ter the land which <span class="small-caps">God</span> is giv&shy;ing you, don&#x02BC;t im&shy;i&shy;tate the de&shy;test&shy;a&shy;ble prac&shy;tices of those na&shy;tions.
-    <sup>10</sup>&#8239;No one a&shy;mong you is to sac&shy;ri&shy;fice his child in the fire, prac&shy;tice div&shy;i&shy;na&shy;tion, tell for&shy;tunes, prac&shy;tice sor&shy;cer&shy;y,
-    <sup>11</sup>&#8239;cast spells, con&shy;sult a me&shy;di&shy;um or spir&shy;it&shy;ist, or in&shy;quire of the dead.
-</p>
-
-<p>
-    <sup>18:15</sup>&#8239;<span class="small-caps">God</span> will raise up for you a proph&shy;et like me from a&shy;mong your countrymen.  Lis&shy;ten to him.
-    <sup>18</sup>&#8239;I will put my words in his mouth, and he will tell them eve&shy;ry&shy;thing I com&shy;mand him.
-    <sup>19</sup>&#8239;I will hold ac&shy;count&shy;a&shy;ble those who do not lis&shy;ten to my words that he speaks in my name.
-</p>
-
-<p>
-    <sup>18:21</sup>&#8239;You may ask your&shy;self, <q>How can we know when a mes&shy;sage is not from <span class="small-caps">God</span>?</q>
-    <sup>22</sup>&#8239;When a proph&shy;et speaks in <span class="small-caps">God</span>&#x02BC;s name and it does not come true, then <span class="small-caps">God</span> has not spo&shy;ken that mes&shy;sage. The proph&shy;et spoke pre&shy;sump&shy;tu&shy;ous&shy;ly. Don&#x02BC;t be a&shy;fraid of him.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>19:2</sup>&#8239;Set a&shy;part three cit&shy;ies for your&shy;selves in the mid&shy;dle of the land that <span class="small-caps">God</span> is giv&shy;ing you.
-    <sup>3</sup>&#8239;Di&shy;vide the land in&shy;to three parts, so that any man&shy;slay&shy;er can flee to these cit&shy;ies.
-    <sup>4</sup>&#8239;A man&shy;slay&shy;er is one who kills his neigh&shy;bor ac&shy;ci&shy;den&shy;tal&shy;ly with&shy;out pre&shy;vi&shy;ous hos&shy;til&shy;i&shy;ty.
-    <sup>5</sup>&#8239;He may flee to one of these cit&shy;ies and live,
-    <sup>6</sup>&#8239;lest the a&shy;veng&shy;er of blood pur&shy;sue the man&shy;slay&shy;er in an&shy;ger, and kill him, though he did not de&shy;serve death.
-</p>
-
-<p>
-    <sup>19:14</sup>&#8239;Don&#x02BC;t move your neigh&shy;bor&#x02BC;s bound&shy;a&shy;ry mark, es&shy;tab&shy;lished by your pre&shy;de&shy;ces&shy;sors.
-</p>
-
-<p>
-    <sup>19:15</sup>&#8239;One wit&shy;ness is in&shy;suf&shy;fi&shy;cient to es&shy;tab&shy;lish wrong&shy;do&shy;ing by any man. A charge must be es&shy;tab&shy;lished on the ev&shy;i&shy;dence of two or three witnesses.
-    <sup>16</sup>&#8239;If a ma&shy;li&shy;cious wit&shy;ness ac&shy;cuses some&shy;one of wrong&shy;do&shy;ing,
-    <sup>17</sup>&#8239;then both peo&shy;ple in the dis&shy;pute must ap&shy;pear be&shy;fore <span class="small-caps">God</span>, be&shy;fore the priests and the judges.
-    <sup>18</sup>&#8239;The judges must in&shy;ves&shy;ti&shy;gate thor&shy;ough&shy;ly, and if the wit&shy;ness has ac&shy;cused his broth&shy;er false&shy;ly,
-    <sup>19</sup>&#8239;then you must do to him as he in&shy;tend&shy;ed to do to his broth&shy;er.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>20:1</sup>&#8239;When you go to war a&shy;gainst your enemies and see hors&shy;es, char&shy;i&shy;ots, and an ar&shy;my larg&shy;er than yours, don&#x02BC;t be a&shy;fraid of them, for <span class="small-caps">God</span>, who brought you out of Egypt, is with you.
-    <sup>2</sup>&#8239;When you ap&shy;proach the bat&shy;tle, the priest shall come for&shy;ward and speak to the ar&shy;my,
-    <sup>3</sup>&#8239;say&shy;ing, <q>Hear, O Israel, to&shy;day you ap&shy;proach bat&shy;tle a&shy;gainst your enemies. Don&#x02BC;t be faint&shy;heart&shy;ed. Don&#x02BC;t fear or pan&shy;ic or be ter&shy;ri&shy;fied of them,
-    <sup>4</sup>&#8239;for <span class="small-caps">God</span> goes with you to fight a&shy;gainst your enemies, to give you vic&shy;to&shy;ry.</q>
-    <sup>5</sup>&#8239;The of&shy;fic&shy;ers shall speak to the ar&shy;my, say&shy;ing, <q>Has any man built a new house and not ded&shy;i&shy;cat&shy;ed it?
-    <sup>6</sup>&#8239;Has any man planted a vine&shy;yard and not yet en&shy;joyed its fruit?
-    <sup>7</sup>&#8239;Has any man be&shy;come en&shy;gaged to a wom&shy;an and not yet mar&shy;ried her?
-    <sup>8</sup>&#8239;Is any man a&shy;fraid or faint&shy;heart&shy;ed?  Let them re&shy;turn home.</q>
-</p>
-
-<p>
-    <sup>20:19</sup>&#8239;When you be&shy;siege a cit&shy;y for a long time, don&#x02BC;t de&shy;stroy its trees.  Are the trees hu&shy;man that you should be&shy;siege them?
-    <sup>20</sup>&#8239;You may on&shy;ly cut down trees that you know to pro&shy;duce no food. Use them to con&shy;struct siegeworks a&shy;gainst the cit&shy;y un&shy;til it falls.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>21:15</sup>&#8239;If a man has two wives, one loved and the oth&shy;er un&shy;loved, and both bear him sons, and the firstborn be&shy;longs to the un&shy;loved,
-    <sup>16</sup>&#8239;then, when his sons in&shy;her&shy;it what he has, he may not fa&shy;vor the son of the loved wife o&shy;ver the son of the un&shy;loved wife.
-    <sup>17</sup>&#8239;He must ac&shy;knowl&shy;edge the firstborn, the son of the un&shy;loved wife, by giv&shy;ing him a dou&shy;ble por&shy;tion of all he has. The right of the firstborn is his.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>22:1</sup>&#8239;If you see your broth&shy;er&#x02BC;s an&shy;i&shy;mal straying, don&#x02BC;t ig&shy;nore it. Bring it back to him.
-    <sup>2</sup>&#8239;If he lives far a&shy;way or you don&#x02BC;t know who he is, bring it home and care for it un&shy;til your broth&shy;er looks for it, then re&shy;turn it to him.
-    <sup>3</sup>&#8239;Do the same with any&shy;thing else that your broth&shy;er loses and you find. Don&#x02BC;t ig&shy;nore it.
-    <sup>4</sup>&#8239;Don&#x02BC;t ig&shy;nore your broth&shy;er&#x02BC;s don&shy;key or ox when it col&shy;lapses on the road.  Help him lift it up a&shy;gain.
-</p>
-
-<p>
-    <sup>22:5</sup>&#8239;A wom&shy;an shall not wear men&#x02BC;s clothes, nei&shy;ther shall a man wear wom&shy;en&#x02BC;s clothes, for <span class="small-caps">God</span> de&shy;tests those who do it.
-</p>
-
-<p>
-    <sup>22:6</sup>&#8239;If you come a&shy;cross a bird&#x02BC;s nest with chicks or eggs, and the moth&shy;er is sit&shy;ting on them, don&#x02BC;t take the moth&shy;er with the young.
-    <sup>7</sup>&#8239;You may take the young but let the moth&shy;er go so that you may pros&shy;per and have a long life.
-</p>
-
-<p>
-    <sup>22:8</sup>&#8239;When you build a new house, con&shy;struct a rail&shy;ing a&shy;round your roof, lest you bring bloodguilt on your house if any&shy;one falls from it.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>23:9</sup>&#8239;When you are en&shy;camped a&shy;gainst your enemies,
-    <sup>12</sup>&#8239;des&shy;ig&shy;nate a place out&shy;side the camp where you can go to re&shy;lieve your&shy;self.
-    <sup>13</sup>&#8239;Keep a dig&shy;ging tool in your e&shy;quip&shy;ment so that when you re&shy;lieve your&shy;self you can dig a hole and cov&shy;er your ex&shy;cre&shy;ment.
-    <sup>14</sup>&#8239;For <span class="small-caps">God</span> walks through your camp to pro&shy;tect you and to de&shy;feat your enemies.  Your camp must be ho&shy;ly lest he see some&shy;thing in&shy;de&shy;cent a&shy;mong you and turn a&shy;way from you.
-</p>
-
-<p>
-    <sup>23:15</sup>&#8239;Don&#x02BC;t re&shy;turn a slave to his mas&shy;ter af&shy;ter he has es&shy;caped to you.
-    <sup>16</sup>&#8239;Let him live a&shy;mong you wher&shy;ev&shy;er he chooses. Don&#x02BC;t mis&shy;treat him.
-</p>
-
-<p>
-    <sup>23:17</sup>&#8239;No man or wom&shy;an of Israel shall be a shrine pros&shy;ti&shy;tute.
-    <sup>18</sup>&#8239;Don&#x02BC;t bring the earn&shy;ings of a pros&shy;ti&shy;tute, fe&shy;male or male, in&shy;to the house of <span class="small-caps">God</span> to pay any vow, be&shy;cause both are de&shy;test&shy;a&shy;ble to <span class="small-caps">God</span>.
-</p>
-
-<p>
-    <sup>23:19</sup>&#8239;Don&#x02BC;t charge your broth&shy;er in&shy;ter&shy;est.
-    <sup>20</sup>&#8239;You may charge in&shy;ter&shy;est to a for&shy;eign&shy;er, but not to your broth&shy;er, so that <span class="small-caps">God</span> may bless you in eve&shy;ry&shy;thing you un&shy;der&shy;take.
-</p>
-
-<p>
-    <sup>23:21</sup>&#8239;When you make a vow to <span class="small-caps">God</span>, don&#x02BC;t de&shy;lay ful&shy;fil&shy;ling it, for <span class="small-caps">God</span> will sure&shy;ly re&shy;quire it of you, and you will be guilt&shy;y of sin.
-    <sup>22</sup>&#8239;But it&#x02BC;s not a sin to re&shy;frain from mak&shy;ing a vow.
-    <sup>23</sup>&#8239;Be care&shy;ful to do what you say, be&shy;cause you made your prom&shy;ise free&shy;ly to <span class="small-caps">God</span> with your own mouth.
-</p>
-
-<p>
-    <sup>23:24</sup>&#8239;If you en&shy;ter your neigh&shy;bor&#x02BC;s vine&shy;yard, you may eat your fill of grapes, but don&#x02BC;t put any in your bas&shy;ket.
-    <sup>25</sup>&#8239;If you en&shy;ter your neigh&shy;bor&#x02BC;s stand&shy;ing grain, you may pluck grain with your hand, but don&#x02BC;t har&shy;vest it with a sick&shy;le.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>24:1</sup>&#8239;If a man marries a wom&shy;an, but she dis&shy;pleases him be&shy;cause he finds some in&shy;de&shy;cen&shy;cy in her, then let him write her a di&shy;vorce cer&shy;tif&shy;i&shy;cate, and send her out of his house.
-    <sup>2</sup>&#8239;When she leaves his house, she may mar&shy;ry an&shy;oth&shy;er man.
-</p>
-
-<p>
-    <sup>24:5</sup>&#8239;When a man takes a new wife, he shall not go to war or be li&shy;a&shy;ble for any pub&shy;lic du&shy;ty for one year. He is free to stay home, so that he can bring joy to his new wife.
-</p>
-
-<p>
-    <sup>24:6</sup>&#8239;Don&#x02BC;t take a mill or an up&shy;per mill&shy;stone in pledge, for that would be tak&shy;ing a life in pledge.
-</p>
-
-<p>
-    <sup>24:10</sup>&#8239;If you lend any&shy;thing to your neigh&shy;bor, don&#x02BC;t en&shy;ter his house to col&shy;lect his pledge.
-    <sup>11</sup>&#8239;Re&shy;main out&shy;side and let your neigh&shy;bor bring the pledge out to you.
-    <sup>12</sup>&#8239;If the man is poor, don&#x02BC;t keep his pledge o&shy;ver&shy;night.
-    <sup>13</sup>&#8239;Re&shy;turn it to him when the sun sets, so that he may sleep in his cloak and bless you.
-</p>
-
-<p>
-    <sup>24:14</sup>&#8239;Don&#x02BC;t op&shy;press a hired work&shy;er who is poor and needy, wheth&shy;er he is a broth&shy;er or a for&shy;eign&shy;er liv&shy;ing in your land.
-    <sup>15</sup>&#8239;Give him his wages each day be&shy;fore the sun sets, for he is poor and de&shy;pends on them; lest he cry to <span class="small-caps">God</span> a&shy;gainst you, and you be&shy;come guilt&shy;y of sin.
-</p>
-
-<p>
-    <sup>24:16</sup>&#8239;Fa&shy;thers shall not be put to death for their chil&shy;dren, nor chil&shy;dren put to death for their fa&shy;thers. Each one shall be put to death for his own sin.
-</p>
-
-<p>
-    <sup>24:17</sup>&#8239;Don&#x02BC;t de&shy;ny jus&shy;tice to a for&shy;eign&shy;er or an or&shy;phan, and don&#x02BC;t take a wid&shy;ow&#x02BC;s cloak as a pledge.
-    <sup>18</sup>&#8239;Re&shy;mem&shy;ber that you were a slave in Egypt, and that <span class="small-caps">God</span> re&shy;deemed you from there.
-</p>
-
-<p>
-    <sup>24:19</sup>&#8239;When you reap your har&shy;vest and for&shy;get a sheaf in the field, don&#x02BC;t go back to get it.  Leave it for the for&shy;eign&shy;er, the or&shy;phan, and the wid&shy;ow, so that <span class="small-caps">God</span> may bless you in all the work of your hands.
-    <sup>20</sup>&#8239;When you beat the ol&shy;ives from your trees, don&#x02BC;t go o&shy;ver the branches a&shy;gain.
-    <sup>21</sup>&#8239;When you gath&shy;er the grapes from your vine&shy;yard, don&#x02BC;t go o&shy;ver the vines a&shy;gain. What re&shy;mains is for the for&shy;eign&shy;er, the or&shy;phan, and the wid&shy;ow.
-    <sup>22</sup>&#8239;Re&shy;mem&shy;ber that you were a slave in Egypt.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>25:4</sup>&#8239;Don&#x02BC;t muz&shy;zle the ox while it treads out the grain.
-</p>
-
-<p>
-    <sup>25:13</sup>&#8239;Don&#x02BC;t car&shy;ry differing weights in your bag, one heav&shy;y and one light.
-    <sup>14</sup>&#8239;Don&#x02BC;t have differing meas&shy;ures in your house, one large and one small.
-    <sup>15</sup>&#8239;Use ac&shy;cu&shy;rate and hon&shy;est weights and meas&shy;ures.
-    <sup>16</sup>&#8239;For <span class="small-caps">God</span> de&shy;tests those who are dis&shy;hon&shy;est in such things.
-</p>
-
-
-<div class="scene"></div>
-
-<p>
-    <sup>26:2</sup>&#8239;Put in&shy;to a bas&shy;ket some of the first fruit of the har&shy;vest.
-    <sup>3</sup>&#8239;Go to the priest.
-    <sup>4</sup>&#8239;The priest shall take the bas&shy;ket from your hand and set it down be&shy;fore the al&shy;tar of <span class="small-caps">God</span>.
-    <sup>5</sup>&#8239;Say be&shy;fore <span class="small-caps">God</span>, <q>My fa&shy;ther was a wan&shy;der&shy;ing Aramean.  He went down to Egypt with a few peo&shy;ple, so&shy;journed there, and be&shy;came a great, might&shy;y, and pop&shy;u&shy;lous na&shy;tion.
-    <sup>6</sup>&#8239;The Egyptians mis&shy;treated us, hu&shy;mil&shy;i&shy;at&shy;ed us, and im&shy;posed hard la&shy;bor on us.
-    <sup>7</sup>&#8239;Then we cried to <span class="small-caps">God</span>, the god of our fa&shy;thers, and <span class="small-caps">God</span> heard our voice and saw our af&shy;flic&shy;tion, our toil, and our op&shy;pres&shy;sion,
-    <sup>8</sup>&#8239;<span class="small-caps">God</span> brought us out of Egypt with a might&shy;y hand, an out&shy;stretched arm, great deeds of ter&shy;ror, signs, and won&shy;ders.
-    <sup>9</sup>&#8239;He brought us to this place and gave us this land, a land flow&shy;ing with milk and hon&shy;ey.
-    <sup>10</sup>&#8239;I bring the first fruit of the ground, which you, O <span class="small-caps">God</span>, have giv&shy;en me.</q>  Set it be&shy;fore <span class="small-caps">God</span> and wor&shy;ship be&shy;fore <span class="small-caps">God</span>.
-    <sup>11</sup>&#8239;You, the Levite, and the for&shy;eign&shy;er shall re&shy;joice in all the good things which <span class="small-caps">God</span> has giv&shy;en to you and your house&shy;hold.
-</p>
-
-<p>
-    <sup>26:12</sup>&#8239;When you have fin&shy;ished pay&shy;ing all the tithes of your pro&shy;duce in the third year, give it to the Levite, the for&shy;eign&shy;er, the or&shy;phan, and the wid&shy;ow, so that they may eat in your towns and be sat&shy;is&shy;fied.
-    <sup>13</sup>&#8239;Say be&shy;fore <span class="small-caps">God</span>, <q>I have tak&shy;en the sa&shy;cred por&shy;tion out of my house.  I have giv&shy;en it to the Levite, the for&shy;eign&shy;er, the or&shy;phan, and the wid&shy;ow, ac&shy;cord&shy;ing to all the com&shy;mand&shy;ments you gave me.  I have not trans&shy;gressed or for&shy;got&shy;ten your com&shy;mand&shy;ments.
-    <sup>14</sup>&#8239;I have not eat&shy;en any of the tithe while in mourn&shy;ing, or re&shy;moved any of it while un&shy;clean, or of&shy;fered any of it to the dead.  I have o&shy;beyed <span class="small-caps">God</span>.  I have done all you com&shy;manded me.
-    <sup>15</sup>&#8239;Look down from heav&shy;en, your ho&shy;ly hab&shy;i&shy;ta&shy;tion, and bless your peo&shy;ple Israel and the land you have giv&shy;en us, as you swore to our fa&shy;thers, a land flow&shy;ing with milk and hon&shy;ey.</q>
-</p>
-
-
-
-    <div class="download">
-        View this document as a PDF for
-        <a href="letter.pdf">printing</a>
-        or for reading on a
-        <a href="phone.pdf">mobile phone</a>.
-    </div>
-
-    <div class="license">
-        <p>&copy;&nbsp;2021 Michael Hendricks</p>
-
-
-        <p>Permission is granted to use, copy, modify, and distribute
-        this work for any purpose with or without fee.</p>
-
-
-        <p>This work is provided as-is without any express or implied
-        warranty. In no event is the author liable for any damages
-        arising from this work.</p>
-
-    </div>
-</div>
+        <h1 class="title">Moses</h1>
+        <div class="canon">
+            <div class="intro">
+                An abridgment of the Book of Deuteronomy.
+                Verse references such
+                as&nbsp;<sup>5:6</sup>&#8239;indicate
+                the original source of the text, but donʼt imply
+                a full quotation.
+            </div>
+
+            
+            
+            <p>
+                <sup>5:1</sup>&#8239;Mo­ses summoned all Israel and said to them, Hear the statutes and ordinances that I speak to­day. Learn them and ob­serve them care­ful­ly.
+                <sup>2</sup>&#8239;GOD made a cov­e­nant with us.
+                <sup>3</sup>&#8239;GOD did not make this cov­e­nant with our fathers.
+                <sup>4</sup>&#8239;GOD spoke with you on the moun­tain, say­ing,
+            </p>
+            <p>
+                <sup>5:6</sup>&#8239;I am GOD, who brought you out of the land of Egypt, out of the house of slav­er­y.
+                <sup>7</sup>&#8239;Donʼt have oth­er gods be­fore me.
+                <sup>8</sup>&#8239;Donʼt make an i­dol for your­self in the form of any­thing in the heavens or on the earth or in the waters.
+                <sup>9</sup>&#8239;Donʼt wor­ship them or serve them, for I am a jeal­ous god, visiting the in­iq­ui­ty of the fathers on the chil­dren to the third and fourth gen­er­a­tion,
+                <sup>10</sup>&#8239;but show­ing love to thousands who love me and keep my commandments.
+            </p>
+            <p>
+                <sup>5:11</sup>&#8239;Donʼt mis­use the name of GOD.
+            </p>
+            <p>
+                <sup>5:12</sup>&#8239;Ob­serve the sabbath day by keep­ing it ho­ly.
+                <sup>13</sup>&#8239;La­bor six days and do all your work,
+                <sup>14</sup>&#8239;but the sev­enth day is a sabbath to GOD. On it you shall not do any work: nei­ther you, your chil­dren, your serv­ant, your live­stock, nor any for­eign­er liv­ing a­mong you, that they may rest as you do.
+                <sup>15</sup>&#8239;Re­mem­ber that you were slaves in Egypt, and that GOD brought you out. There­fore, GOD commanded you to keep the sabbath day.
+            </p>
+            <p>
+                <sup>5:16</sup>&#8239;Hon­or your parents so that you may live long and that it may go well with you in the land that GOD is giv­ing you.
+            </p>
+            <p>
+                <sup>5:17</sup>&#8239;Donʼt mur­der.
+                <sup>18</sup>&#8239;Donʼt com­mit a­dul­ter­y.
+                <sup>19</sup>&#8239;Donʼt steal.
+                <sup>20</sup>&#8239;Donʼt give false tes­ti­mo­ny a­gainst your neigh­bor.
+                <sup>21</sup>&#8239;Donʼt cov­et your neighborʼs wife, house, field, servants, live­stock, or any­thing that belongs to your neigh­bor.
+            </p>
+            <p>
+                <sup>5:32</sup>&#8239;Be care­ful to do as GOD has commanded you. Donʼt turn a­side to the right or to the left.
+                <sup>33</sup>&#8239;Walk on the path which GOD has commanded you, that you may live, pros­per, and pro­long your days in the land that you will pos­sess.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>6:5</sup>&#8239;Love GOD with all your heart, soul, and stren&#43;gth.
+                <sup>6</sup>&#8239;These words that I com­mand you to­day shall be on your heart.
+            </p>
+            <p>
+                <sup>6:10</sup>&#8239;When GOD brings you in­to the land that he swore to your fathers Abraham, Isaac, and Jacob that he would give you — a land with large and splen­did cit­ies,
+                <sup>11</sup>&#8239;hous­es filled with eve­ry good thing, cisterns, vineyards, and ol­ive trees — when you eat and are sat­is­fied,
+                <sup>12</sup>&#8239;then be care­ful not to for­get GOD.
+            </p>
+            <p>
+                <sup>6:14</sup>&#8239;Donʼt fol­low oth­er gods, the gods of the peo­ple a­round you,
+                <sup>15</sup>&#8239;lest the an­ger of GOD be kindled a­gainst you, and de­stroy you from the face of the earth.
+            </p>
+            <p>
+                <sup>6:20</sup>&#8239;When your son asks you, “What is the mean­ing of the testimonies, the statutes, and the rules that GOD has commanded you?”
+                <sup>21</sup>&#8239;tell him, “We were slaves to Pharaoh in Egypt, but GOD brought us out of Egypt.
+                <sup>23</sup>&#8239;He brought us out from there in or­der to give us the land that he swore to our fathers.
+                <sup>24</sup>&#8239;So GOD commanded us to ob­serve all these statutes and to fear GOD for our good and our sur­viv­al.)
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>7:1</sup>&#8239;When GOD brings you in­to the land, and clears a­way man­y nations be­fore you,
+                <sup>3</sup>&#8239;donʼt in­ter­mar­ry with them.
+                <sup>4</sup>&#8239;They will turn your chil­dren a­way from me, to wor­ship oth­er gods.
+            </p>
+            <p>
+                <sup>7:7</sup>&#8239;GOD did­nʼt choose you be­cause you were more nu­mer­ous than oth­er peo­ple,
+                <sup>8</sup>&#8239;but be­cause GOD loves you and is keep­ing the oath that he swore to your fathers.
+            </p>
+            <p>
+                <sup>7:12</sup>&#8239;If you lis­ten to and care­ful­ly keep these ordinances, GOD will keep the cov­e­nant of love with you that he swore to your fathers.
+                <sup>13</sup>&#8239;He will love you, bless you, and mul­ti­ply you. He will bless the fruit of your womb, the crops of your land, and the in­crease of your herd.
+            </p>
+            <p>
+                <sup>7:17</sup>&#8239;If you say in your heart, “These nations are greater than I. How can I dis­pos­sess them?”
+                <sup>18</sup>&#8239;Donʼt be a­fraid of them. Re­mem­ber what GOD did to Pharaoh and to all Egypt.
+                <sup>21</sup>&#8239;Donʼt dread them, for GOD is a­mong you, a great and awe­some god.
+                <sup>22</sup>&#8239;GOD will clear a­way these nations be­fore you lit­tle by lit­tle. You will not e­lim­i­nate them all at once, lest the wild animals be­come too nu­mer­ous for you.
+                <sup>25</sup>&#8239;Burn the carved images of their gods. Donʼt cov­et the sil­ver or gold that is on them, nor take it for your­self, lest you be en­snared by it.
+                <sup>26</sup>&#8239;Donʼt bring an a­bom­i­na­tion in­to your house, lest you be set a­part for de­struc­tion. In­stead, utterly de­test it and ab­hor it.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>8:2</sup>&#8239;Re­mem­ber how GOD led you these for­ty years in the wil­der­ness, to hum­ble you, and to test what was in your heart, wheth­er you would keep his commandments.
+                <sup>3</sup>&#8239;He humbled you, let you go hun­gry, then fed you with man­na, which nei­ther you nor your fathers had known, to teach you that man does not live by bread a­lone, but by eve­ry word that co­mes from the mouth of GOD.
+                <sup>5</sup>&#8239;Know in your heart that GOD disciplines you just as a man disciplines his son.
+                <sup>6</sup>&#8239;There­fore keep the commandments of GOD by walk­ing in his ways and by fearing him.
+                <sup>10</sup>&#8239;When youʼve eat­en and are sat­is­fied, then bless GOD for the good land he has giv­en you.
+            </p>
+            <p>
+                <sup>8:11</sup>&#8239;Be care­ful not to for­get GOD, by fail­ing to keep his commandments, his ordinances, and his statutes.
+                <sup>12</sup>&#8239;Oth­er­wise, once youʼve eat­en and are sat­is­fied, and have built good hous­es to live in,
+                <sup>13</sup>&#8239;and when your herds mul­ti­ply, and your sil­ver and gold mul­ti­ply, and eve­ry­thing you have multiplies,
+                <sup>14</sup>&#8239;then your heart will be­come proud, and you will for­get GOD,
+                <sup>17</sup>&#8239;and you may say in your heart, “My pow­er and the strength of my hand has made me this wealth.”
+                <sup>18</sup>&#8239;But re­mem­ber that GOD gives you pow­er to make wealth in or­der to con­firm his cov­e­nant.
+                <sup>19</sup>&#8239;If you for­get GOD, fol­low oth­er gods, serve them, and wor­ship them, I tes­ti­fy a­gainst you to­day that you will sure­ly per­ish.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>9:4</sup>&#8239;Once GOD has driv­en the peo­ple out be­fore you, donʼt say in your heart, “GOD brought me in to pos­sess this land be­cause of my right­eous­ness.” In­stead, GOD drives them out be­cause of their wick­ed­ness.
+                <sup>6</sup>&#8239;Un­der­stand that GOD is­nʼt giv­ing you this good land be­cause of your right­eous­ness, for you are a stub­born peo­ple.
+                <sup>7</sup>&#8239;Donʼt for­get how you pro­voked GOD in the wil­der­ness. From the day you de­part­ed Egypt un­til you ar­rived in this place, you have been re­bel­lious a­gainst GOD.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>10:17</sup>&#8239;GOD is not par­tial and takes no bribe.
+                <sup>18</sup>&#8239;He executes jus­tice for orphans and widows, and loves the for­eign­er by giv­ing him food and cloth­ing.
+                <sup>19</sup>&#8239;There­fore, love the for­eign­er, for you were foreigners in Egypt.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>11:2</sup>&#8239;Re­mem­ber that your chil­dren did­nʼt ex­pe­ri­ence the dis­ci­pline of GOD; his works which he did in Egypt;
+                <sup>4</sup>&#8239;what he did to the ar­my of Egypt; how he made the wa­ter of the Red sea en­gulf them as they pur­sued you;
+                <sup>5</sup>&#8239;and what he did to you in the wil­der­ness, un­til you reached this place;
+                <sup>7</sup>&#8239;but your eyes have seen eve­ry great work GOD has done.
+            </p>
+            <p>
+                <sup>11:16</sup>&#8239;Be care­ful not to be en­ticed to turn a­side and serve oth­er gods and wor­ship them.
+                <sup>18</sup>&#8239;There­fore im­print my words on your heart and on your soul, bind them as a sign on your hand, and wear them on your foreheads.
+                <sup>19</sup>&#8239;Teach them to your chil­dren, speak of them when you sit in your house, when you walk a­long the road, when you lie down, and when you get up.
+                <sup>20</sup>&#8239;Write them on the doorposts of your house and on your gates,
+                <sup>21</sup>&#8239;that your days, and the days of your chil­dren, may be mul­ti­plied as long as the heavens are a­bove the earth.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>12:4</sup>&#8239;Donʼt wor­ship GOD in the same way as the nations you dis­pos­sess.
+                <sup>5</sup>&#8239;In­stead, seek the place where GOD chooses to es­tab­lish his name. Go there
+                <sup>6</sup>&#8239;and bring your burnt offerings, your sacrifices, your tithes, your contributions, your vow offerings, your free­will offerings, and the firstborn of your live­stock.
+                <sup>7</sup>&#8239;There, in the pres­ence of GOD, you and your families will eat and re­joice in eve­ry­thing you un­der­take, be­cause GOD has bless­ed you.
+            </p>
+            <p>
+                <sup>12:20</sup>&#8239;When GOD enlarges your ter­ri­to­ry as he has prom­ised you, and you say, “I want to eat meat,” you may eat meat when­ev­er you want.
+            </p>
+            <p>
+                <sup>12:29</sup>&#8239;When GOD cuts off the nations be­fore you, and you live in their land,
+                <sup>30</sup>&#8239;be care­ful not to be en­snared by their ways,
+                <sup>31</sup>&#8239;for they have done eve­ry de­test­a­ble act for their gods; e­ven burn­ing their chil­dren as sacrifices.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>13:1</sup>&#8239;If a proph­et arises a­mong you, and gives you a sign or a won­der,
+                <sup>2</sup>&#8239;and it co­mes true, but he says, “Let us fol­low oth­er gods and wor­ship them,”
+                <sup>3</sup>&#8239;donʼt lis­ten to that proph­et. For GOD is testing you to find out wheth­er you love GOD with all your heart and with all your soul.
+            </p>
+            <p>
+                <sup>13:6</sup>&#8239;If your broth­er, child, wife, or friend se­cret­ly entices you, say­ing, “Let us wor­ship oth­er gods,”
+                <sup>8</sup>&#8239;donʼt yield to him and donʼt lis­ten to him.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>14:22</sup>&#8239;Set a­side a tenth of the pro­duce that is harvested from your fields each year.
+                <sup>23</sup>&#8239;Eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your live­stock be­fore GOD, in the place where he chooses to es­tab­lish his name, so that you may learn to fear GOD al­ways.
+            </p>
+            <p>
+                <sup>14:24</sup>&#8239;If the dis­tance is so great that you canʼt car­ry it,
+                <sup>25</sup>&#8239;then turn it in­to mon­ey and take the mon­ey to the place where GOD chooses to es­tab­lish his name.
+                <sup>26</sup>&#8239;Spend the mon­ey for what­ev­er you want, for ox­en, or sheep, or wine, or strong drink. Eat it be­fore GOD and re­joice, you and your house­hold.
+                <sup>27</sup>&#8239;Donʼt ne­glect the Levite who is in your town, for he has no por­tion or in­her­it­ance with you.
+            </p>
+            <p>
+                <sup>14:28</sup>&#8239;At the end of eve­ry third year, bring all the tithe of that yearʼs pro­duce and store it in your town.
+                <sup>29</sup>&#8239;The Levite, the for­eign­er, the fa­ther­less, and the wid­ow in your town shall come and eat and be sat­is­fied, so that GOD may bless you in all your work.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>15:1</sup>&#8239;At the end of eve­ry sev­enth year, can­cel debts.
+                <sup>2</sup>&#8239;Eve­ry cred­i­tor must can­cel the loans he made to his neigh­bor. He must not de­mand pay­ment from his neigh­bor.
+                <sup>3</sup>&#8239;You may re­quire pay­ment from a for­eign­er, but you must for­give what­ev­er your broth­er owes you.
+                <sup>6</sup>&#8239;For GOD will bless you, as he has prom­ised. You will lend to man­y nations, but you will not bor­row. You will rule man­y nations, but none will rule you.
+            </p>
+            <p>
+                <sup>15:7</sup>&#8239;If there is a poor man a­mong you, in any of your towns, donʼt hard­en your heart or shut your hand to­wards him.
+                <sup>8</sup>&#8239;In­stead, o­pen your hand to him and lend him suf­fi­cient for his need, what­ev­er it may be.
+            </p>
+            <p>
+                <sup>15:9</sup>&#8239;Be care­ful not to have this wick­ed thought: “The sev­enth year, the year of re­lease, is near,” and you look grudg­ing­ly on your poor broth­er and give him noth­ing. He will cry to GOD a­gainst you, and you will be guilt­y.
+                <sup>10</sup>&#8239;Give gen­er­ous­ly to him with­out a grudg­ing heart. Be­cause of this GOD will bless you in eve­ry­thing you do.
+                <sup>11</sup>&#8239;There will al­ways be poor peo­ple in the land. There­fore free­ly o­pen your hand to your broth­er, to the poor, and to the needy.
+            </p>
+            <p>
+                <sup>15:12</sup>&#8239;If a fel­low Hebrew is sold to you, and serves you for six years, free him in the sev­enth year.
+                <sup>13</sup>&#8239;When you free him, donʼt send him a­way empty-handed.
+                <sup>14</sup>&#8239;Fur­nish him lib­er­al­ly from your flock, from your threshing floor, and from your wine­press. Give to him as GOD has bless­ed you.
+                <sup>15</sup>&#8239;Re­mem­ber that you were a slave in Egypt, and GOD redeemed you. That is why I am giv­ing you this com­mand.
+                <sup>18</sup>&#8239;Donʼt con­sid­er it a hard­ship when you set him free, for he served you six years at half the cost of a hired serv­ant. GOD will bless you in all you do.
+            </p>
+            <p>
+                <sup>15:19</sup>&#8239;Ded­i­cate to GOD eve­ry firstborn male of your live­stock. Do no work with the firstborn of your herd, nor shear the firstborn of your flock.
+                <sup>20</sup>&#8239;Each year you and your fam­i­ly are to eat it be­fore GOD in the place GOD chooses.
+                <sup>21</sup>&#8239;If it has any de­fect, is lame or blind, donʼt sac­ri­fice it to GOD.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>16:1</sup>&#8239;Ob­serve the month of Aviv and cel­e­brate the Passover to GOD, for in the month of Aviv GOD brought you out of Egypt by night.
+                <sup>3</sup>&#8239;For sev­en days you are to eat un­leav­ened bread—be­cause you left Egypt in haste—so that you may re­mem­ber the day you left Egypt for the rest of your life.
+                <sup>4</sup>&#8239;Let no yeast be found in your ter­ri­to­ry for sev­en days.
+                <sup>6</sup>&#8239;Sac­ri­fice the Passover at sun­set, at the time you came out of Egypt.
+                <sup>8</sup>&#8239;On the sev­enth day hold a sol­emn as­sem­bly to GOD, and do no work.
+            </p>
+            <p>
+                <sup>16:9</sup>&#8239;Sev­en weeks af­ter you start the grain har­vest,
+                <sup>10</sup>&#8239;cel­e­brate the Feast of Weeks to GOD by giv­ing a free­will of­fer­ing in pro­por­tion to how GOD has bless­ed you.
+                <sup>11</sup>&#8239;Re­joice be­fore GOD; you, your chil­dren, your servants, and the Levites in your town; the for­eign­er, the or­phan, and the wid­ow, who are a­mong you.
+            </p>
+            <p>
+                <sup>16:13</sup>&#8239;Cel­e­brate the Feast of Tabernacles for sev­en days af­ter gath­er­ing the pro­duce from your threshing floor and wine­press.
+                <sup>14</sup>&#8239;Re­joice dur­ing your feast; you, your chil­dren, your servants, and the Levites; the strang­er, the or­phan, and the wid­ow who are a­mong you.
+                <sup>15</sup>&#8239;Cel­e­brate the feast to GOD for sev­en days, be­cause GOD will bless you in all your pro­duce and in all the work of your hands, so that you will be al­to­geth­er joy­ful.
+            </p>
+            <p>
+                <sup>16:16</sup>&#8239;All males must ap­pear three times a year be­fore GOD where he chooses: at the Feast of Un­leav­ened Bread, the Feast of Weeks, and the Feast of Tabernacles. None shall ap­pear be­fore GOD empty-handed.
+                <sup>17</sup>&#8239;Each of you must bring a gift in pro­por­tion to how GOD has bless­ed you.
+            </p>
+            <p>
+                <sup>16:18</sup>&#8239;Ap­point judges and officers for your tribes in all your towns. They shall judge the peo­ple right­eous­ly.
+                <sup>19</sup>&#8239;Donʼt per­vert jus­tice or be par­tial. Donʼt take a bribe, for it blinds the wise and twists the words of the right­eous.
+                <sup>20</sup>&#8239;Pur­sue jus­tice, and on­ly jus­tice.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>17:1</sup>&#8239;Donʼt sac­ri­fice to GOD an ox or a sheep with any blem­ish or de­fect, for that is de­test­a­ble to GOD.
+            </p>
+            <p>
+                <sup>17:2</sup>&#8239;If any­one in any of your towns
+                <sup>3</sup>&#8239;has wor­shiped oth­er gods,
+                <sup>4</sup>&#8239;and if you hear a­bout it, then in­ves­ti­gate dil­i­gent­ly. If it is true and cer­tain,
+                <sup>5</sup>&#8239;bring him to your cit­y gates and stone him to death.
+                <sup>6</sup>&#8239;He shall be put to death on the tes­ti­mo­ny of two or three witnesses, but not on the tes­ti­mo­ny of one wit­ness.
+                <sup>7</sup>&#8239;The hands of the witnesses shall be first a­gainst him to put him to death, and af­ter­ward the hands of all the peo­ple.
+            </p>
+            <p>
+                <sup>17:8</sup>&#8239;If a case is too dif­fi­cult for you to judge, wheth­er hom­i­cide, law­suit, or as­sault, then go to the place GOD chooses,
+                <sup>9</sup>&#8239;and ask the priests or the judge who is in of­fice, and they will give you the ver­dict.
+                <sup>10</sup>&#8239;You must a­bide by the ver­dict they give you. Be care­ful to do eve­ry­thing they tell you.
+            </p>
+            <p>
+                <sup>17:14</sup>&#8239;When you en­ter the land GOD is giv­ing you, and you pos­sess it, and live in it, and say, “I will set a king o­ver me like all the nations a­round me,”
+                <sup>15</sup>&#8239;ap­point a king whom GOD chooses, one from a­mong your brothers. Donʼt ap­point a for­eign­er who is not your broth­er.
+                <sup>16</sup>&#8239;He must not ac­quire man­y hors­es for him­self or send the peo­ple to Egypt to ac­quire man­y hors­es. For GOD has told you, “Nev­er re­turn that way a­gain.”
+                <sup>17</sup>&#8239;He must not ac­quire man­y wives for him­self, lest his heart go a­stray. He must not ac­quire ex­ces­sive sil­ver and gold for him­self.
+            </p>
+            <p>
+                <sup>17:18</sup>&#8239;When he sits on the throne, he must write for him­self a cop­y of this law, in the pres­ence of the Levites.
+                <sup>19</sup>&#8239;He must read from it all the days of his life, so he may learn to fear GOD by ob­serv­ing this law and these statutes,
+                <sup>20</sup>&#8239;lest his heart be lifted up a­bove his countrymen or he turn a­side from the com­mand­ment.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>18:9</sup>&#8239;When you en­ter the land which GOD is giv­ing you, donʼt im­i­tate the de­test­a­ble practices of those nations.
+                <sup>10</sup>&#8239;No one a­mong you is to sac­ri­fice his child in the fire, prac­tice div­i­na­tion, tell fortunes, prac­tice sor­cer­y,
+                <sup>11</sup>&#8239;cast spells, con­sult a me­di­um or spir­it­ist, or in­quire of the dead.
+            </p>
+            <p>
+                <sup>18:15</sup>&#8239;GOD will raise up for you a proph­et like me from a­mong your countrymen. Lis­ten to him.
+                <sup>18</sup>&#8239;I will put my words in his mouth, and he will tell them eve­ry­thing I com­mand him.
+                <sup>19</sup>&#8239;I will hold ac­count­a­ble those who do not lis­ten to my words that he speaks in my name.
+            </p>
+            <p>
+                <sup>18:21</sup>&#8239;You may ask your­self, “How can we know when a mes­sage is not from GOD?”
+                <sup>22</sup>&#8239;When a proph­et speaks in GODʼs name and it does not come true, then GOD has not spo­ken that mes­sage. The proph­et spoke pre­sump­tu­ous­ly. Donʼt be a­fraid of him.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>19:2</sup>&#8239;Set a­part three cit­ies for your­selves in the mid­dle of the land that GOD is giv­ing you.
+                <sup>3</sup>&#8239;Di­vide the land in­to three parts, so that any man­slay­er can flee to these cit­ies.
+                <sup>4</sup>&#8239;A man­slay­er is one who kills his neigh­bor ac­ci­den­tal­ly with­out pre­vi­ous hos­til­i­ty.
+                <sup>5</sup>&#8239;He may flee to one of these cit­ies and live,
+                <sup>6</sup>&#8239;lest the a­veng­er of blood pur­sue the man­slay­er in an­ger, and kill him, though he did not de­serve death.
+            </p>
+            <p>
+                <sup>19:14</sup>&#8239;Donʼt move your neighborʼs bound­a­ry mark, established by your predecessors.
+            </p>
+            <p>
+                <sup>19:15</sup>&#8239;One wit­ness is in­suf­fi­cient to es­tab­lish wrong­do­ing by any man. A charge must be established on the ev­i­dence of two or three witnesses.
+                <sup>16</sup>&#8239;If a ma­li­cious wit­ness accuses some­one of wrong­do­ing,
+                <sup>17</sup>&#8239;then both peo­ple in the dis­pute must ap­pear be­fore GOD, be­fore the priests and the judges.
+                <sup>18</sup>&#8239;The judges must in­ves­ti­gate thor­ough­ly, and if the wit­ness has ac­cused his broth­er false­ly,
+                <sup>19</sup>&#8239;then you must do to him as he in­tend­ed to do to his broth­er.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>20:1</sup>&#8239;When you go to war a­gainst your enemies and see hors­es, chariots, and an ar­my larg­er than yours, donʼt be a­fraid of them, for GOD, who brought you out of Egypt, is with you.
+                <sup>2</sup>&#8239;When you ap­proach the bat­tle, the priest shall come for­ward and speak to the ar­my,
+                <sup>3</sup>&#8239;say­ing, “Hear, O Israel, to­day you ap­proach bat­tle a­gainst your enemies. Donʼt be faint­heart­ed. Donʼt fear or pan­ic or be ter­ri­fied of them,
+                <sup>4</sup>&#8239;for GOD goes with you to fight a­gainst your enemies, to give you vic­to­ry.)
+                <sup>5</sup>&#8239;The officers shall speak to the ar­my, say­ing, “Has any man built a new house and not ded­i­cat­ed it?
+                <sup>6</sup>&#8239;Has any man planted a vine­yard and not yet enjoyed its fruit?
+                <sup>7</sup>&#8239;Has any man be­come en­gaged to a wom­an and not yet mar­ried her?
+                <sup>8</sup>&#8239;Is any man a­fraid or faint­heart­ed? Let them re­turn home.)
+            </p>
+            <p>
+                <sup>20:19</sup>&#8239;When you be­siege a cit­y for a long time, donʼt de­stroy its trees. Are the trees hu­man that you should be­siege them?
+                <sup>20</sup>&#8239;You may on­ly cut down trees that you know to pro­duce no food. Use them to con­struct siegeworks a­gainst the cit­y un­til it falls.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>21:15</sup>&#8239;If a man has two wives, one loved and the oth­er un­loved, and both bear him sons, and the firstborn belongs to the un­loved,
+                <sup>16</sup>&#8239;then, when his sons in­her­it what he has, he may not fa­vor the son of the loved wife o­ver the son of the un­loved wife.
+                <sup>17</sup>&#8239;He must ac­knowl­edge the firstborn, the son of the un­loved wife, by giv­ing him a dou­ble por­tion of all he has. The right of the firstborn is his.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>22:1</sup>&#8239;If you see your brotherʼs an­i­mal straying, donʼt ig­nore it. Bring it back to him.
+                <sup>2</sup>&#8239;If he lives far a­way or you donʼt know who he is, bring it home and care for it un­til your broth­er looks for it, then re­turn it to him.
+                <sup>3</sup>&#8239;Do the same with any­thing else that your broth­er loses and you find. Donʼt ig­nore it.
+                <sup>4</sup>&#8239;Donʼt ig­nore your brotherʼs don­key or ox when it collapses on the road. Help him lift it up a­gain.
+            </p>
+            <p>
+                <sup>22:5</sup>&#8239;A wom­an shall not wear menʼs clothes, nei­ther shall a man wear womenʼs clothes, for GOD detests those who do it.
+            </p>
+            <p>
+                <sup>22:6</sup>&#8239;If you come a­cross a birdʼs nest with chicks or eggs, and the moth­er is sit­ting on them, donʼt take the moth­er with the young.
+                <sup>7</sup>&#8239;You may take the young but let the moth­er go so that you may pros­per and have a long life.
+            </p>
+            <p>
+                <sup>22:8</sup>&#8239;When you build a new house, con­struct a rail­ing a­round your roof, lest you bring bloodguilt on your house if any­one falls from it.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>23:9</sup>&#8239;When you are encamped a­gainst your enemies,
+                <sup>12</sup>&#8239;des­ig­nate a place out­side the camp where you can go to re­lieve your­self.
+                <sup>13</sup>&#8239;Keep a dig­ging tool in your e­quip­ment so that when you re­lieve your­self you can dig a hole and cov­er your ex­cre­ment.
+                <sup>14</sup>&#8239;For GOD walks through your camp to pro­tect you and to de­feat your enemies. Your camp must be ho­ly lest he see some­thing in­de­cent a­mong you and turn a­way from you.
+            </p>
+            <p>
+                <sup>23:15</sup>&#8239;Donʼt re­turn a slave to his mas­ter af­ter he has es­caped to you.
+                <sup>16</sup>&#8239;Let him live a­mong you wher­ev­er he chooses. Donʼt mis­treat him.
+            </p>
+            <p>
+                <sup>23:17</sup>&#8239;No man or wom­an of Israel shall be a shrine pros­ti­tute.
+                <sup>18</sup>&#8239;Donʼt bring the earn­ings of a pros­ti­tute, fe­male or male, in­to the house of GOD to pay any vow, be­cause both are de­test­a­ble to GOD.
+            </p>
+            <p>
+                <sup>23:19</sup>&#8239;Donʼt charge your broth­er in­ter­est.
+                <sup>20</sup>&#8239;You may charge in­ter­est to a for­eign­er, but not to your broth­er, so that GOD may bless you in eve­ry­thing you un­der­take.
+            </p>
+            <p>
+                <sup>23:21</sup>&#8239;When you make a vow to GOD, donʼt de­lay ful­fil­ling it, for GOD will sure­ly re­quire it of you, and you will be guilt­y of sin.
+                <sup>22</sup>&#8239;But itʼs not a sin to re­frain from mak­ing a vow.
+                <sup>23</sup>&#8239;Be care­ful to do what you say, be­cause you made your prom­ise free­ly to GOD with your own mouth.
+            </p>
+            <p>
+                <sup>23:24</sup>&#8239;If you en­ter your neighborʼs vine­yard, you may eat your fill of grapes, but donʼt put any in your bas­ket.
+                <sup>25</sup>&#8239;If you en­ter your neighborʼs stand­ing grain, you may pluck grain with your hand, but donʼt har­vest it with a sick­le.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>24:1</sup>&#8239;If a man marries a wom­an, but she displeases him be­cause he finds some in­de­cen­cy in her, then let him write her a di­vorce cer­tif­i­cate, and send her out of his house.
+                <sup>2</sup>&#8239;When she leaves his house, she may mar­ry an­oth­er man.
+            </p>
+            <p>
+                <sup>24:5</sup>&#8239;When a man takes a new wife, he shall not go to war or be li­a­ble for any pub­lic du­ty for one year. He is free to stay home, so that he can bring joy to his new wife.
+            </p>
+            <p>
+                <sup>24:6</sup>&#8239;Donʼt take a mill or an up­per mill­stone in pledge, for that would be tak­ing a life in pledge.
+            </p>
+            <p>
+                <sup>24:10</sup>&#8239;If you lend any­thing to your neigh­bor, donʼt en­ter his house to col­lect his pledge.
+                <sup>11</sup>&#8239;Re­main out­side and let your neigh­bor bring the pledge out to you.
+                <sup>12</sup>&#8239;If the man is poor, donʼt keep his pledge o­ver­night.
+                <sup>13</sup>&#8239;Re­turn it to him when the sun sets, so that he may sleep in his cloak and bless you.
+            </p>
+            <p>
+                <sup>24:14</sup>&#8239;Donʼt op­press a hired work­er who is poor and needy, wheth­er he is a broth­er or a for­eign­er liv­ing in your land.
+                <sup>15</sup>&#8239;Give him his wages each day be­fore the sun sets, for he is poor and depends on them; lest he cry to GOD a­gainst you, and you be­come guilt­y of sin.
+            </p>
+            <p>
+                <sup>24:16</sup>&#8239;Fathers shall not be put to death for their chil­dren, nor chil­dren put to death for their fathers. Each one shall be put to death for his own sin.
+            </p>
+            <p>
+                <sup>24:17</sup>&#8239;Donʼt de­ny jus­tice to a for­eign­er or an or­phan, and donʼt take a widowʼs cloak as a pledge.
+                <sup>18</sup>&#8239;Re­mem­ber that you were a slave in Egypt, and that GOD redeemed you from there.
+            </p>
+            <p>
+                <sup>24:19</sup>&#8239;When you reap your har­vest and for­get a sheaf in the field, donʼt go back to get it. Leave it for the for­eign­er, the or­phan, and the wid­ow, so that GOD may bless you in all the work of your hands.
+                <sup>20</sup>&#8239;When you beat the olives from your trees, donʼt go o­ver the branches a­gain.
+                <sup>21</sup>&#8239;When you gath­er the grapes from your vine­yard, donʼt go o­ver the vines a­gain. What re­mains is for the for­eign­er, the or­phan, and the wid­ow.
+                <sup>22</sup>&#8239;Re­mem­ber that you were a slave in Egypt.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>25:4</sup>&#8239;Donʼt muz­zle the ox while it treads out the grain.
+            </p>
+            <p>
+                <sup>25:13</sup>&#8239;Donʼt car­ry differing weights in your bag, one heav­y and one light.
+                <sup>14</sup>&#8239;Donʼt have differing meas­ures in your house, one large and one small.
+                <sup>15</sup>&#8239;Use ac­cu­rate and hon­est weights and meas­ures.
+                <sup>16</sup>&#8239;For GOD detests those who are dis­hon­est in such things.
+            </p>
+            
+            <div class="scene"></div>
+            
+            <p>
+                <sup>26:2</sup>&#8239;Put in­to a bas­ket some of the first fruit of the har­vest.
+                <sup>3</sup>&#8239;Go to the priest.
+                <sup>4</sup>&#8239;The priest shall take the bas­ket from your hand and set it down be­fore the al­tar of GOD.
+                <sup>5</sup>&#8239;Say be­fore GOD, “My fa­ther was a wan­der­ing Aramean. He went down to Egypt with a few peo­ple, sojourned there, and be­came a great, might­y, and pop­u­lous na­tion.
+                <sup>6</sup>&#8239;The Egyptians mistreated us, hu­mil­i­at­ed us, and im­posed hard la­bor on us.
+                <sup>7</sup>&#8239;Then we cried to GOD, the god of our fathers, and GOD heard our voice and saw our af­flic­tion, our toil, and our op­pres­sion,
+                <sup>8</sup>&#8239;GOD brought us out of Egypt with a might­y hand, an out­stretched arm, great deeds of ter­ror, signs, and wonders.
+                <sup>9</sup>&#8239;He brought us to this place and gave us this land, a land flow­ing with milk and hon­ey.
+                <sup>10</sup>&#8239;I bring the first fruit of the ground, which you, O GOD, have giv­en me.) Set it be­fore GOD and wor­ship be­fore GOD.
+                <sup>11</sup>&#8239;You, the Levite, and the for­eign­er shall re­joice in all the good things which GOD has giv­en to you and your house­hold.
+            </p>
+            <p>
+                <sup>26:12</sup>&#8239;When you have fin­ished pay­ing all the tithes of your pro­duce in the third year, give it to the Levite, the for­eign­er, the or­phan, and the wid­ow, so that they may eat in your towns and be sat­is­fied.
+                <sup>13</sup>&#8239;Say be­fore GOD, “I have tak­en the sa­cred por­tion out of my house. I have giv­en it to the Levite, the for­eign­er, the or­phan, and the wid­ow, ac­cord­ing to all the commandments you gave me. I have not transgressed or for­got­ten your commandments.
+                <sup>14</sup>&#8239;I have not eat­en any of the tithe while in mourn­ing, or re­moved any of it while un­clean, or offered any of it to the dead. I have obeyed GOD. I have done all you commanded me.
+                <sup>15</sup>&#8239;Look down from heav­en, your ho­ly hab­i­ta­tion, and bless your peo­ple Israel and the land you have giv­en us, as you swore to our fathers, a land flow­ing with milk and hon­ey.)
+            </p>
+            <p>
+            </p>
+        </div>
 
     </body>
 </html>
 
-<!--
-Copyright 2018 Michael Hendricks
 
-Permission is granted to use, copy, modify, and distribute
-this work for any purpose with or without fee.
-
-This work is provided as-is without any express or implied
-warranty. In no event is the author liable for any damages
-arising from this work.
--->
