@@ -2,8 +2,8 @@
     "name": "mormon",
     "lang": "eng",
     "title": "Mormon",
-    "description": "An abridgment of the Book of Mormon, with an introduction abridged from Joseph Smith\\mdash()History",
-    "sample-verse": "1:13",
+    "description": "An a­bridg­ment of the Book of Mormon, with an in­tro­duc­tion a­bridged from Jo­seph Smith—His­to­ry",
+    "sample-verse": "1:5",
     "books": [
         {
             "title": "Introduction",
