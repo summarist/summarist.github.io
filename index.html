@@ -6,96 +6,48 @@
         <title>Choose your language | Digests and Messages</title>
         <style type="text/css">
             body {
-    font-family: serif;
-    font-size: medium; /* user's default size */
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 25em;   /* =55*0.45; goal: 55 characters wide */
-}
-h1.title {
-    font-size: 27px;          /* =(18*1.5); smaller than typical h1 */
-    font-variant: small-caps;
-    text-align: center;
-}
-p {
-    line-height: 1.35;   /* more legible than typical default */
-    text-indent: 27px;   /* =1.5em; sufficient but not too big */
-    margin-top: 4px;     /* barely perceptible */
-    margin-bottom: 4px;  /* barely perceptible */
-    text-align: justify;
-}
-@media screen and (max-width: 530px) {  /* =(495+2*18)-1 = (55ch + 2em)-1 */
-    body {
-        margin-left: 18px;  /* =1em; a comfortable minimum margin size */
-        margin-right: 18px;
-    }
-}
+                font-family: serif;
+                font-size: medium; /* user's default size */
+                margin-left: auto;
+                margin-right: auto;
+                max-width: 25em; /* goal: 55 characters wide */
+            }
+            h1.title {
+                font-size: 27px; /* smaller than typical h1 */
+                font-variant: small-caps;
+                text-align: center;
+            }
+            @media screen and (max-width: 530px) {
+                body {
+                    /* small screens need more margin than auto gives */
+                    margin-left: 18px;
+                    margin-right: 18px;
+                }
+            }
 
-a {
-    color: black;
-}
-a:visited {
-    color: gray;
-}
+            a {
+                color: black;
+            }
+            a:visited {
+                color: gray;
+            }
 
-li > a {
-    color: black;
-    font-style: italic;
-    text-decoration: none;
-}
-li > a:hover {
-    text-decoration: underline;
-}
-li > a:visited {
-    color: gray;
-}
+            li > a {
+                color: black;
+                font-style: italic;
+                text-decoration: none;
+            }
+            li > a:hover {
+                text-decoration: underline;
+            }
+            li > a:visited {
+                color: gray;
+            }
 
-ul.table-of-contents {
-    list-style: none;
-    padding-left: 18px; /* =1em */
-}
-
-.canon sup {
-    font-size: 12px; /* =ceil(18*(2/3)); smaller than typical default */
-    vertical-align: 5px; /* =ceil(18/4); about 0.5ex */
-}
-.canon .intro {
-    margin-left: 18px;   /* =1em; little space on the sides */
-    margin-right: 18px;  /* =1em; little space on the sides */
-    margin-bottom: 24px; /* same size as line spacing */
-    font-size: 17px;     /* =ceil(18*0.9), more subtle text */
-    text-align: center;
-    font-style: italic;
-}
-.canon .download {
-    border-top: 1px solid gray;
-    margin-top: 24px;    /* same size as line spacing */
-    padding-top: 24px;   /* same size as line spacing */
-}
-.canon .license {
-    border-top: 1px solid gray;
-    margin-top: 24px;    /* same size as line spacing */
-    padding-top: 24px;   /* same size as line spacing */
-    text-align: center;
-    font-style: italic;
-}
-.canon .license p {
-    text-indent: 0px;
-    margin-bottom: 2ex;
-}
-
-div.scene {
-    height: 24px;  /* same size as line spacing */
-}
-
-
-div.centered { text-align: center; }
-
-em.italic { font-style: italic; }
-
-span.small-caps { font-variant: small-caps }
-
-
+            ul.table-of-contents {
+                list-style: none;
+                padding-left: 18px;
+            }
         </style>
     </head>
     <body>
@@ -111,7 +63,7 @@ span.small-caps { font-variant: small-caps }
 </html>
 
 <!--
-Copyright 2018 Michael Hendricks
+Copyright 2021 Michael Hendricks
 
 Permission is granted to use, copy, modify, and distribute
 this work for any purpose with or without fee.
