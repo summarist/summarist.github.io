@@ -2,7 +2,7 @@
     "name": "mormon",
     "lang": "eng",
     "title": "Mormon",
-    "description": "An a­bridg­ment of the Book of Mormon, with an in­tro­duc­tion a­bridged from Jo­seph Smith—His­to­ry",
+    "description": "An a­bridg­ment of the Book of Mormon",
     "sample-verse": "1:5",
     "books": [
         {
@@ -10,6 +10,14 @@
             "sections": [
                 {
                     "paragraphs": [
+                        {
+                            "verses": [
+                                {
+                                    "ref": "0.",
+                                    "translation": "A­bridged from Jo­seph Smith—His­to­ry"
+                                }
+                            ]
+                        },
                         {
                             "verses": [
                                 {
@@ -26,7 +34,7 @@
                                 },
                                 {
                                     "ref": "1:6",
-                                    "translation": "The cler­gy pro­mot­ed this scene of re­li­gious feel­ing in or­der to have eve­ry­bod­y con­vert­ed, let them join what sect they pleased. Yet when the converts be­gan to file off, some to one par­ty and some to an­oth­er, it was seen that the seemingly good feelings of both the priests and the converts were more pre­tend­ed than re­al, lost in a strife of words: priest contending against priest, and con­vert against con­vert."
+                                    "translation": "The cler­gy pro­mot­ed this scene of re­li­gious feel­ing in or­der to have eve­ry­bod­y con­vert­ed, let them join what sect they pleased. Yet when the converts be­gan to file off, some to one par­ty and some to an­oth­er, it was seen that the seemingly good feelings of both the priests and the converts were more pre­tend­ed than re­al, lost in a strife of words: priest contending against priest, con­vert against con­vert."
                                 }
                             ]
                         },
@@ -38,7 +46,7 @@
                                 },
                                 {
                                     "ref": "1:8",
-                                    "translation": "My mind was called up to se­ri­ous re­flec­tion and great un­eas­i­ness. My feelings were deep and of­ten poign­ant, but still I kept my­self a­loof from all the parties, though I attended their meetings as of­ten as oc­ca­sion would per­mit. So great were the con­fu­sion and strife a­mong the dif­fer­ent denominations, that it was im­pos­si­ble for a per­son as young as I was to come to any cer­tain con­clu­sion who was right and who was wrong."
+                                    "translation": "My mind was called up to se­ri­ous re­flec­tion and great un­eas­i­ness. My feelings were deep and of­ten poign­ant, but still I kept my­self a­loof from all the parties, though I attended their meetings as of­ten as oc­ca­sion would per­mit. So great were the con­fu­sion and strife a­mong the dif­fer­ent denominations that it was im­pos­si­ble for a per­son as young as I was to come to any cer­tain con­clu­sion who was right and who was wrong."
                                 }
                             ]
                         },
@@ -46,7 +54,7 @@
                             "verses": [
                                 {
                                     "ref": "1:10",
-                                    "translation": "In the midst of this war of words and tu­mult of opinions, I of­ten said to my­self, “What is to be done? If any of these parties is right, which is it, and how will I know it?”"
+                                    "translation": "In the midst of this war of words and tu­mult of opinions, I of­ten said to my­self, “What is to be done? If any of these parties is right, which is it, and how will I know?”"
                                 }
                             ]
                         },
@@ -158,11 +166,11 @@
                             "verses": [
                                 {
                                     "ref": "1:29",
-                                    "translation": "In con­se­quence of these things, I of­ten felt condemned for my weaknesses and imperfections. One eve­ning, I be­took my­self to pray­er and sup­pli­ca­tion to God for for­give­ness of my sins and follies."
+                                    "translation": "In con­se­quence of these things, I of­ten felt condemned for my weaknesses and imperfections. One eve­ning, I com­mit­ted my­self to pray­er and sup­pli­ca­tion to God for for­give­ness of my sins and follies."
                                 },
                                 {
                                     "ref": "1:30",
-                                    "translation": "While I was call­ing up­on God, I discovered a light appearing in my room, and im­me­di­ate­ly a per­son­age appeared."
+                                    "translation": "While I was call­ing up­on God, a light appeared in my room, and im­me­di­ate­ly a per­son­age appeared."
                                 }
                             ]
                         },
@@ -182,7 +190,7 @@
                                 },
                                 {
                                     "ref": "1:46",
-                                    "translation": "He added a cau­tion, tell­ing me that Satan would try to tempt me to get the plates for the purposes of get­ting rich. This he for­bade me, say­ing that I must on­ly get the plates to glo­ri­fy God."
+                                    "translation": "He added a cau­tion, tell­ing me that Satan would try to tempt me to get the plates for the purposes of get­ting rich. This he for­bid me, say­ing that I must on­ly get the plates to glo­ri­fy God."
                                 },
                                 {
                                     "ref": "1:53",
@@ -198,7 +206,7 @@
                             "verses": [
                                 {
                                     "ref": "1:54",
-                                    "translation": "I went at the end of each year to the place where the plates were deposited. Each time I found the same mes­sen­ger there, and re­ceived in­struc­tion from him."
+                                    "translation": "I went at the end of each year to the place where the plates were deposited. Each time I found the mes­sen­ger there, and re­ceived in­struc­tion from him."
                                 }
                             ]
                         },
@@ -210,7 +218,7 @@
                                 },
                                 {
                                     "ref": "1:67",
-                                    "translation": "I com­menced to trans­late the Book of Mormon."
+                                    "translation": "I com­menced to trans­late the Book of Mormon:"
                                 }
                             ]
                         }
@@ -267,7 +275,7 @@
                                 },
                                 {
                                     "ref": "2:13",
-                                    "translation": "They al­so did not be­lieve that Je­ru­sa­lem could be destroyed."
+                                    "translation": "They al­so did­nʼt be­lieve that Je­ru­sa­lem could be destroyed."
                                 }
                             ]
                         },
@@ -275,7 +283,7 @@
                             "verses": [
                                 {
                                     "ref": "2:16",
-                                    "translation": "I be­lieved all that my fa­ther had spo­ken. There­fore, I did not re­bel against him like my brothers."
+                                    "translation": "I be­lieved all that my fa­ther had spo­ken. There­fore, I did­nʼt re­bel against him like my brothers."
                                 }
                             ]
                         }
@@ -303,7 +311,7 @@
                             "verses": [
                                 {
                                     "ref": "3:7",
-                                    "translation": "I said to my fa­ther, “Iʼll go and do what God has commanded, for I know that God gives no commandments un­less he prepares a way to ac­com­plish them.”"
+                                    "translation": "I said to my fa­ther, “Iʼll do what God has commanded, for I know that God on­ly gives commandments if he prepares a way to ac­com­plish them.”"
                                 }
                             ]
                         },
@@ -311,7 +319,7 @@
                             "verses": [
                                 {
                                     "ref": "3:19",
-                                    "translation": "I said to my brothers, “Itʼs wis­dom in God that we should ob­tain these records, that we may pre­serve for our chil­dren"
+                                    "translation": "I said to my brothers, “Itʼs wis­dom in God that we should ob­tain these records, that we can pre­serve for our chil­dren"
                                 },
                                 {
                                     "ref": "3:20",
@@ -343,7 +351,7 @@
                                 },
                                 {
                                     "ref": "5:21",
-                                    "translation": "We had obtained the records which God had commanded us, and found that they had great val­ue to us, be­cause we could pre­serve the commandments of God for our chil­dren."
+                                    "translation": "We had obtained the records which God had commanded us, and found that they had great val­ue to us be­cause we could pre­serve the commandments of God for our chil­dren."
                                 }
                             ]
                         }
@@ -359,7 +367,7 @@
                                 },
                                 {
                                     "ref": "7:16",
-                                    "translation": "were an­gry with me, and tried to take a­way my life,"
+                                    "translation": "were an­gry with me and tried to take a­way my life,"
                                 },
                                 {
                                     "ref": "7:19",
@@ -368,14 +376,6 @@
                                 {
                                     "ref": "7:21",
                                     "translation": "I for­gave them all that they had done, and we trav­eled again on our jour­ney."
-                                }
-                            ]
-                        },
-                        {
-                            "verses": [
-                                {
-                                    "ref": "17:3",
-                                    "translation": "If the chil­dren of men keep Godʼs commandments, he provides means for them to ac­com­plish what he has commanded."
                                 }
                             ]
                         }
@@ -391,7 +391,7 @@
                                 },
                                 {
                                     "ref": "17:6",
-                                    "translation": "We pitched our tents by the sea­shore, and re­joiced great­ly."
+                                    "translation": "We pitched our tents by the sea­shore and re­joiced great­ly."
                                 }
                             ]
                         },
@@ -403,11 +403,7 @@
                                 },
                                 {
                                     "ref": "17:8",
-                                    "translation": "“You shall con­struct a ship af­ter the man­ner that I will show you, that I may car­ry your peo­ple a­cross these waters.”"
-                                },
-                                {
-                                    "ref": "17:15",
-                                    "translation": "There­fore, I la­bored to keep the commandments of God."
+                                    "translation": "“Con­struct a ship af­ter the man­ner that I will show you, that I may car­ry your peo­ple a­cross these waters.”"
                                 }
                             ]
                         },
@@ -415,7 +411,7 @@
                             "verses": [
                                 {
                                     "ref": "17:17",
-                                    "translation": "When my brothers saw that I was a­bout to build a ship, they be­gan to grum­ble against me, say­ing, “Our broth­er is a fool, for he thinks that he can build a ship, and cross these great waters.”"
+                                    "translation": "When my brothers saw that I was a­bout to build a ship, they be­gan to grum­ble against me, “Our broth­er is a fool for he thinks that he can build a ship, and cross these great waters.”"
                                 }
                             ]
                         },
@@ -423,7 +419,7 @@
                             "verses": [
                                 {
                                     "ref": "17:19",
-                                    "translation": "I was deep­ly grieved be­cause of the hard­ness of their hearts. When they saw this they were glad, say­ing, “We knew that you could­nʼt con­struct a ship, and that you lacked judg­ment."
+                                    "translation": "I was deep­ly grieved be­cause of the hard­ness of their hearts. When they saw this, they were glad, say­ing, “We knew that you could­nʼt con­struct a ship, and that you lacked judg­ment."
                                 },
                                 {
                                     "ref": "17:20",
@@ -435,14 +431,6 @@
                 },
                 {
                     "paragraphs": [
-                        {
-                            "verses": [
-                                {
-                                    "ref": "18:3",
-                                    "translation": "I, Nephi, of­ten went up on the moun­tain, and I of­ten prayed to God."
-                                }
-                            ]
-                        },
                         {
                             "verses": [
                                 {
@@ -492,10 +480,6 @@
                                 {
                                     "ref": "19:9",
                                     "translation": "The world, be­cause of their in­iq­ui­ty, will judge Jesus to be a thing of naught."
-                                },
-                                {
-                                    "ref": "19:18",
-                                    "translation": "I have writ­ten these things that per­haps I might per­suade my peo­ple to re­mem­ber God."
                                 }
                             ]
                         },
@@ -503,7 +487,7 @@
                             "verses": [
                                 {
                                     "ref": "22:23",
-                                    "translation": "For the time soon co­mes that all churches which are built up to make a prof­it, and to get pow­er, and to be­come pop­u­lar in the eyes of the world, must be brought low in the dust."
+                                    "translation": "All churches which are built up to make a prof­it, and to get pow­er, and to be­come pop­u­lar in the eyes of the world, must be brought low in the dust."
                                 }
                             ]
                         },
@@ -533,11 +517,7 @@
                                 {
                                     "ref": "5:2",
                                     "translation": "so they sought to take a­way my life."
-                                }
-                            ]
-                        },
-                        {
-                            "verses": [
+                                },
                                 {
                                     "ref": "5:5",
                                     "translation": "God warned me to de­part from them, and flee in­to the wil­der­ness a­long with all those who would go with me."
@@ -560,7 +540,7 @@
                                 },
                                 {
                                     "ref": "5:11",
-                                    "translation": "We prospered great­ly, for we sowed seed, reaped in a­bun­dance, and raised flocks, and herds, and animals of eve­ry kind."
+                                    "translation": "We prospered great­ly, for we sowed seed, reaped in a­bun­dance, and raised flocks, herds, and animals of eve­ry kind."
                                 }
                             ]
                         },
@@ -568,7 +548,7 @@
                             "verses": [
                                 {
                                     "ref": "5:14",
-                                    "translation": "I made man­y swords so that our enemies would not come up­on us and de­stroy us."
+                                    "translation": "I made man­y swords so that our enemies would­nʼt come up­on us and de­stroy us."
                                 }
                             ]
                         }
@@ -596,7 +576,7 @@
                             "verses": [
                                 {
                                     "ref": "9:28",
-                                    "translation": "Oh the van­i­ty, and fool­ish­ness of men! When they are learn­ed they think they are wise, and they do not lis­ten to Godʼs coun­sel, for they set it a­side, sup­pos­ing they know of them­selves, there­fore, their wis­dom is fool­ish­ness and it does not prof­it them."
+                                    "translation": "Oh the van­i­ty, and fool­ish­ness of men! When they are learn­ed they think they are wise, and they donʼt lis­ten to Godʼs coun­sel, for they set it a­side, sup­pos­ing they know of them­selves, there­fore, their wis­dom is fool­ish­ness and it does not prof­it them."
                                 },
                                 {
                                     "ref": "9:29",
@@ -608,7 +588,7 @@
                             "verses": [
                                 {
                                     "ref": "9:30",
-                                    "translation": "Woe to the rich, who de­spise the poor, and per­se­cute the meek, and whose hearts are on their treasures; there­fore, their treas­ure is their God."
+                                    "translation": "Woe to the rich who de­spise the poor, per­se­cute the meek, and whose hearts are on their treasures; there­fore, their treas­ure is their God."
                                 }
                             ]
                         },
@@ -648,7 +628,7 @@
                             "verses": [
                                 {
                                     "ref": "9:51",
-                                    "translation": "Do not spend mon­ey on what has no val­ue, nor your la­bor on what can­not sat­is­fy."
+                                    "translation": "Donʼt spend mon­ey on what has no val­ue, nor your la­bor on what can­not sat­is­fy."
                                 }
                             ]
                         },
@@ -704,11 +684,11 @@
                             "verses": [
                                 {
                                     "ref": "26:23",
-                                    "translation": "God does not work in dark­ness."
+                                    "translation": "God does­nʼt work in dark­ness."
                                 },
                                 {
                                     "ref": "26:25",
-                                    "translation": "Does he say to any­one, “De­part from me?” No."
+                                    "translation": "Does he say to any­one, “De­part from me”? No."
                                 },
                                 {
                                     "ref": "26:26",
@@ -768,7 +748,7 @@
                                 },
                                 {
                                     "ref": "28:13",
-                                    "translation": "They rob the poor be­cause of their fi­ne sanc­tu­ar­ies, and their fi­ne cloth­ing. They per­se­cute the meek and the poor in heart, be­cause in their pride they have be­come ar­ro­gant."
+                                    "translation": "They rob the poor be­cause of their fi­ne sanc­tu­ar­ies and their fi­ne cloth­ing. They per­se­cute the meek and the poor in heart, be­cause in their pride they have be­come ar­ro­gant."
                                 }
                             ]
                         },
@@ -776,7 +756,7 @@
                             "verses": [
                                 {
                                     "ref": "28:16",
-                                    "translation": "Woe to those who turn a­side the just for noth­ing, and re­vile against what is good, and say that it has no worth!"
+                                    "translation": "Woe to those who turn a­side the just for noth­ing, and re­vile against what is good and say that it has no worth!"
                                 },
                                 {
                                     "ref": "28:29",
@@ -788,7 +768,7 @@
                             "verses": [
                                 {
                                     "ref": "28:30",
-                                    "translation": "God says, “To him who receives I will give more. From them who say, ‘We have e­nough,’ will be tak­en a­way what­ev­er they have.”"
+                                    "translation": "God says, “To him who receives I will give more. From them who say, ‘We have e­nough,’ will be tak­en a­way what­ev­er they have."
                                 }
                             ]
                         },
@@ -825,14 +805,6 @@
                                 {
                                     "ref": "32:8",
                                     "translation": "Know that you must pray, for the evil spir­it teaches a man that he must not pray."
-                                }
-                            ]
-                        },
-                        {
-                            "verses": [
-                                {
-                                    "ref": "33:10",
-                                    "translation": "Lis­ten to these words and be­lieve in Christ, for they teach all men to do good."
                                 }
                             ]
                         }
@@ -873,11 +845,11 @@
                                 },
                                 {
                                     "ref": "2:13",
-                                    "translation": "and prov­i­dence has smiled on you most pleas­ing­ly, that you have obtained man­y rich­es. Be­cause some of you have obtained more a­bun­dant­ly than others you are lifted up in the pride of your hearts be­cause of the cost­li­ness of your ap­par­el, and per­se­cute others be­cause you sup­pose that you are bet­ter than they. "
+                                    "translation": "and prov­i­dence has smiled on you most pleas­ing­ly, that you have obtained man­y rich­es. Be­cause some of you have obtained more a­bun­dant­ly than others, you are lifted up in the pride of your hearts be­cause of the cost­li­ness of your ap­par­el, and per­se­cute others be­cause you sup­pose that you are bet­ter than they. "
                                 },
                                 {
                                     "ref": "2:14",
-                                    "translation": "Do you sup­pose that God justifies you in this thing? No, but he condemns you, and if you per­sist his judgments will speed­i­ly come to you."
+                                    "translation": "Do you sup­pose that God justifies you in this thing? No, but he condemns you, and if you per­sist, his judgments will speed­i­ly come to you."
                                 }
                             ]
                         },
@@ -942,7 +914,7 @@
                             "verses": [
                                 {
                                     "ref": "0.",
-                                    "translation": "Tak­en from chapters 11-23 of the Book of Mo­si­ah."
+                                    "translation": "A­bridged from chapters 11-23 of the Book of Mo­si­ah"
                                 }
                             ]
                         },
@@ -954,7 +926,7 @@
                                 },
                                 {
                                     "ref": "11:2",
-                                    "translation": "No­ah did not keep Godʼs commandments, but followed the desires of his own heart."
+                                    "translation": "No­ah did­nʼt keep Godʼs commandments, but followed the desires of his own heart."
                                 },
                                 {
                                     "ref": "11:3",
@@ -986,7 +958,7 @@
                                 },
                                 {
                                     "ref": "11:28",
-                                    "translation": "Bring A­bin­a­di here that I may kill him.”"
+                                    "translation": "Bring A­bin­a­di here so I can kill him.”"
                                 }
                             ]
                         },
@@ -998,7 +970,7 @@
                                 },
                                 {
                                     "ref": "12:29",
-                                    "translation": "A­bin­a­di said to the priests, “Why do you set your hearts on rich­es? Why do you spend your strength with prostitutes?”"
+                                    "translation": "A­bin­a­di said to the priests, “Why do you set your hearts on rich­es? Why do you spend your strength with prostitutes?"
                                 }
                             ]
                         },
@@ -1010,7 +982,7 @@
                                 },
                                 {
                                     "ref": "15:26",
-                                    "translation": "But fear and trem­ble be­fore God, for he redeems none who have wil­ful­ly rebelled against him, who have known his commandments, and re­fused to keep them.”"
+                                    "translation": "But fear and trem­ble be­fore God, for he redeems none who have wil­ful­ly rebelled against him, who have known his commandments and re­fused to keep them.”"
                                 }
                             ]
                         },
@@ -1062,7 +1034,7 @@
                             "verses": [
                                 {
                                     "ref": "17:9",
-                                    "translation": "A­bin­a­di said to him, “I will not take back what Iʼve spo­ken to you, for it is true."
+                                    "translation": "A­bin­a­di said, “I will not take back what Iʼve spo­ken, for it is true."
                                 },
                                 {
                                     "ref": "17:10",
@@ -1078,7 +1050,7 @@
                                 },
                                 {
                                     "ref": "17:12",
-                                    "translation": "But the priests said, “He has re­viled the king.” There­fore the king was in­cit­ed to an­ger against him, and delivered him to be killed."
+                                    "translation": "But the priests said, “He has re­viled the king.” There­fore, the king was in­cit­ed to an­ger against him, and delivered him to be killed."
                                 }
                             ]
                         },
@@ -1126,7 +1098,7 @@
                             "verses": [
                                 {
                                     "ref": "23:1",
-                                    "translation": "Now Al­ma, hav­ing been warned by God, told his peo­ple, there­fore they gathered to­geth­er their flocks, and their grain, and"
+                                    "translation": "Now Al­ma, hav­ing been warned by God, told his peo­ple, there­fore they gathered to­geth­er their flocks and their grain, and"
                                 },
                                 {
                                     "ref": "23:3",
@@ -1199,7 +1171,7 @@
                                 },
                                 {
                                     "ref": "1:3",
-                                    "translation": "He al­so taught them a­bout the records which were en­graved on the brass plates, say­ing: “My sons,"
+                                    "translation": "He al­so taught them a­bout the records which were en­graved on the brass plates: “My sons,"
                                 },
                                 {
                                     "ref": "1:4",
@@ -1218,12 +1190,8 @@
                                     "translation": "King Ben­ja­min grew old, and saw that he must ver­y soon go the way of all the earth."
                                 },
                                 {
-                                    "ref": "1:10",
-                                    "translation": "There­fore, he"
-                                },
-                                {
                                     "ref": "1:18",
-                                    "translation": "proclaimed to all the peo­ple to gath­er them­selves to­geth­er to hear his words."
+                                    "translation": "There­fore, he proclaimed to all the peo­ple to gath­er them­selves to­geth­er to hear his words."
                                 }
                             ]
                         },
@@ -1239,7 +1207,7 @@
                             "verses": [
                                 {
                                     "ref": "2:8",
-                                    "translation": "He caused his words to be writ­ten and sent to those who could not hear him, that they might al­so re­ceive his words."
+                                    "translation": "King Ben­ja­min caused his words to be writ­ten and sent to those who could not hear him, that they might al­so re­ceive his words."
                                 },
                                 {
                                     "ref": "2:9",
@@ -1352,15 +1320,15 @@
                                 {
                                     "ref": "4:15",
                                     "translation": "But you will teach them to walk in the ways of so­ber truth, to love one an­oth­er, and to serve one an­oth­er."
-                                },
-                                {
-                                    "ref": "4:16",
-                                    "translation": "You will help those who need your help. You will give of your possessions to him who stands in need. You wonʼt al­low the beg­gar to pe­ti­tion you in vain, and turn him a­way to per­ish."
                                 }
                             ]
                         },
                         {
                             "verses": [
+                                {
+                                    "ref": "4:16",
+                                    "translation": "You will help those who need your help. You will give of your possessions to him who stands in need. You wonʼt al­low the beg­gar to pe­ti­tion you in vain, and turn him a­way to per­ish."
+                                },
                                 {
                                     "ref": "4:17",
                                     "translation": "Per­haps you will say, “The man has brought his mis­er­y on him­self, there­fore I wonʼt give him of my food, or of my possessions, for his punishments are just.”"
@@ -1403,7 +1371,7 @@
                             "verses": [
                                 {
                                     "ref": "4:26",
-                                    "translation": "To re­tain for­give­ness of your sins: Share your possessions with the poor, eve­ry man ac­cord­ing to what he has, such as feed­ing the hun­gry, cloth­ing the na­ked, visiting the sick and help­ing them, both spiritually and tem­po­ral­ly, ac­cord­ing to their needs."
+                                    "translation": "To re­tain for­give­ness of your sins, share your possessions with the poor, eve­ry man ac­cord­ing to what he has, such as feed­ing the hun­gry, cloth­ing the na­ked, visiting the sick and help­ing them, both spiritually and tem­po­ral­ly, ac­cord­ing to their needs."
                                 },
                                 {
                                     "ref": "4:27",
@@ -1423,8 +1391,12 @@
                             "verses": [
                                 {
                                     "ref": "4:30",
-                                    "translation": "If you do not watch your­selves, and your thoughts, and your words, and your deeds, and ob­serve Godʼs commandments, e­ven un­til the end of your lives, you must per­ish."
-                                },
+                                    "translation": "If you donʼt watch your­selves, and your thoughts, and your words, and your deeds, and ob­serve Godʼs commandments, e­ven un­til the end of your lives, you must per­ish."
+                                }
+                            ]
+                        },
+                        {
+                            "verses": [
                                 {
                                     "ref": "5:13",
                                     "translation": "How does a man know the mas­ter whom he has not served, and who is a strang­er to him, and is far from the thoughts and intents of his heart?"
@@ -1471,7 +1443,7 @@
                                 },
                                 {
                                     "ref": "28:11",
-                                    "translation": "There­fore he took the records"
+                                    "translation": "There­fore, he took the records"
                                 },
                                 {
                                     "ref": "28:20",
@@ -1483,7 +1455,7 @@
                             "verses": [
                                 {
                                     "ref": "29:4",
-                                    "translation": "King Mo­si­ah wrote to the peo­ple say­ing,"
+                                    "translation": "King Mo­si­ah wrote to the peo­ple,"
                                 },
                                 {
                                     "ref": "29:5",
@@ -1495,7 +1467,7 @@
                                 },
                                 {
                                     "ref": "29:7",
-                                    "translation": "If I ap­point an­oth­er in his place, I fear there would a­rise contentions which would cause wars, which would de­stroy the souls of man­y peo­ple.”"
+                                    "translation": "If I ap­point an­oth­er in his place, I fear there would a­rise contentions which would cause wars, which would de­stroy the souls of man­y peo­ple."
                                 }
                             ]
                         },
@@ -1507,7 +1479,7 @@
                                 },
                                 {
                                     "ref": "29:11",
-                                    "translation": "There­fore I will be your king for the rest of my life. Nev­er­the­less, let us ap­point judges, to judge this peo­ple ac­cord­ing to our law, and we will new­ly ar­range the af­fairs of this peo­ple.”"
+                                    "translation": "There­fore, I will be your king for the rest of my life. Nev­er­the­less, let us ap­point judges to judge this peo­ple ac­cord­ing to our law, and we will new­ly ar­range the af­fairs of this peo­ple."
                                 }
                             ]
                         },
@@ -1519,7 +1491,7 @@
                                 },
                                 {
                                     "ref": "29:17",
-                                    "translation": "For be­hold, how much in­iq­ui­ty does one wick­ed king cause to be com­mit­ted, and what great de­struc­tion!”"
+                                    "translation": "For be­hold how much in­iq­ui­ty one wick­ed king causes, and what great de­struc­tion!"
                                 }
                             ]
                         },
@@ -1527,7 +1499,7 @@
                             "verses": [
                                 {
                                     "ref": "29:21",
-                                    "translation": "“You can on­ly de­throne an in­iq­ui­tous king through much con­ten­tion, and blood­shed."
+                                    "translation": "“You can on­ly de­throne an in­iq­ui­tous king through much con­ten­tion and blood­shed."
                                 },
                                 {
                                     "ref": "29:22",
@@ -1535,7 +1507,7 @@
                                 },
                                 {
                                     "ref": "29:23",
-                                    "translation": "and he enacts laws ac­cord­ing to his own wick­ed­ness, and who­ev­er does not o­bey his laws he causes to be destroyed.”"
+                                    "translation": "and he enacts laws ac­cord­ing to his own wick­ed­ness, and he destroys who­ev­er does­nʼt o­bey his laws."
                                 }
                             ]
                         },

@@ -1,13 +1,14 @@
                         Mormon
 
-     An abridgment of the Book of Mormon, with an
-    introduction abridged from Joseph Smith—His-
-   tory. Verse references such as ¹·⁵ indicate
-   the original source of the text, but donʼt im-
-                ply a full quotation.
+      An abridgment of the Book of Mormon. Verse
+   references such as ¹·⁵ indicate the original
+     source of the text, but donʼt imply a full
+                      quotation.
 
 
 # Introduction
+
+⁰Abridged from Joseph Smith—History
 
 ¹·¹I, Joseph Smith, write this history to put all
 inquirers after truth in possession of the facts.
@@ -21,7 +22,7 @@ off, some to one party and some to another, it was
 seen that the seemingly good feelings of both the
 priests and the converts were more pretended than re-
 al, lost in a strife of words: priest contending
-against priest, and convert against convert.
+against priest, convert against convert.
 
 ¹·⁷I was at this time fourteen years old. ⁸My mind
 was called up to serious reflection and great uneasi-
@@ -29,7 +30,7 @@ ness. My feelings were deep and often poignant, but
 still I kept myself aloof from all the parties,
 though I attended their meetings as often as occa-
 sion would permit. So great were the confusion and
-strife among the different denominations, that it was
+strife among the different denominations that it was
 impossible for a person as young as I was to come to
 any certain conclusion who was right and who was
 wrong.
@@ -37,7 +38,7 @@ wrong.
 ¹·¹⁰In the midst of this war of words and tumult of
 opinions, I often said to myself, “What is to be
 done? If any of these parties is right, which is it,
-and how will I know it?”
+and how will I know?”
 
 ¹·¹¹One day I was reading James 1:5, which reads, “If
 any of you lacks wisdom, let him ask God, who gives
@@ -107,11 +108,10 @@ pany.
 
 ¹·²⁹In consequence of these things, I often felt
 condemned for my weaknesses and imperfections. One
-evening, I betook myself to prayer and supplication
-to God for forgiveness of my sins and follies.
-³⁰While I was calling upon God, I discovered a light
-appearing in my room, and immediately a personage
-appeared.
+evening, I committed myself to prayer and supplica-
+tion to God for forgiveness of my sins and follies.
+³⁰While I was calling upon God, a light appeared in
+my room, and immediately a personage appeared.
 
 ¹·³³He called me by name, said that he was a messen-
 ger from God, and that his name was Moroni. ³⁴He said
@@ -121,7 +121,7 @@ tinent. ⁴²The vision was opened to my mind so that I
 could see the place where the plates were deposited.
 ⁴⁶He added a caution, telling me that Satan would try
 to tempt me to get the plates for the purposes of get-
-ting rich. This he forbade me, saying that I must on-
+ting rich. This he forbid me, saying that I must on-
 ly get the plates to glorify God. ⁵³The messenger in-
 formed me that the time for bringing forth the plates
 would arrive in four years.
@@ -129,14 +129,14 @@ would arrive in four years.
 —
 
 ¹·⁵⁴I went at the end of each year to the place where
-the plates were deposited. Each time I found the same
-messenger there, and received instruction from him.
+the plates were deposited. Each time I found the mes-
+senger there, and received instruction from him.
 
 ¹·⁵⁹At length, the time arrived for obtaining the
 plates. Having gone as usual at the end of another
 year to the place where they were deposited, the same
 messenger delivered them to me. ⁶⁷I commenced to
-translate the Book of Mormon.
+translate the Book of Mormon:
 
 # 1 Nephi
 
@@ -161,10 +161,10 @@ against their father because he had led them out of
 Jerusalem, leaving their land, gold, silver, and pre-
 cious things. They said he had done this because of
 the foolish imaginations of his heart. ¹³They also
-did not believe that Jerusalem could be destroyed.
+didnʼt believe that Jerusalem could be destroyed.
 
 ²·¹⁶I believed all that my father had spoken. There-
-fore, I did not rebel against him like my brothers.
+fore, I didnʼt rebel against him like my brothers.
 
 —
 
@@ -175,12 +175,13 @@ should return to Jerusalem, go to Labanʼs house, seek
 the records, and bring them here into the wilder-
 ness.”
 
-³·⁷I said to my father, “Iʼll go and do what God has
-commanded, for I know that God gives no commandments
-unless he prepares a way to accomplish them.”
+³·⁷I said to my father, “Iʼll do what God has
+commanded, for I know that God only gives
+commandments if he prepares a way to accomplish
+them.”
 
 ³·¹⁹I said to my brothers, “Itʼs wisdom in God that
-we should obtain these records, that we may preserve
+we should obtain these records, that we can preserve
 for our children ²⁰the words spoken by all the holy
 prophets.”
 
@@ -193,43 +194,38 @@ derness, and journeyed to our fatherʼs tent.
 ⁵·¹After we returned to our father, he was filled
 with joy, and also my mother was very glad. ²¹We had
 obtained the records which God had commanded us, and
-found that they had great value to us, because we
+found that they had great value to us because we
 could preserve the commandments of God for our chil-
 dren.
 
 —
 
 ⁷·⁶As we journeyed in the wilderness, Laman and Lem-
-uel ¹⁶were angry with me, and tried to take away my
+uel ¹⁶were angry with me and tried to take away my
 life, ¹⁹but some of our company plead with them, and
 they stopped trying to take away my life. ²¹I for-
 gave them all that they had done, and we traveled
 again on our journey.
-
-¹⁷·³If the children of men keep Godʼs commandments,
-he provides means for them to accomplish what he has
-commanded.
 
 —
 
 ¹⁷·⁵We came to the land which we called Bountiful, be-
 cause it had much fruit and wild honey. God had pre-
 pared all these things that we might not perish. ⁶We
-pitched our tents by the seashore, and rejoiced great-
+pitched our tents by the seashore and rejoiced great-
 ly.
 
-¹⁷·⁷God said to me, Nephi, ⁸“You shall construct a
-ship after the manner that I will show you, that I
-may carry your people across these waters.” ¹⁵There-
-fore, I labored to keep the commandments of God.
+¹⁷·⁷God said to me, Nephi, ⁸“Construct a ship after
+the manner that I will show you, that I may carry
+your people across these waters.”
 
 ¹⁷·¹⁷When my brothers saw that I was about to build a
-ship, they began to grumble against me, saying, “Our
-brother is a fool, for he thinks that he can build a
-ship, and cross these great waters.”
+ship, they began to grumble against me, “Our brother
+is a fool for he thinks that he can build a ship, and
+cross these great waters.”
 
 ¹⁷·¹⁹I was deeply grieved because of the hardness of
-their hearts. When they saw this they were glad, say-
+their hearts. When they saw this, they were glad, say-
 ing, “We knew that you couldnʼt construct a ship, and
 that you lacked judgment. ²⁰Youʼre like our father,
 led away by the foolish imaginations of his heart. He
@@ -237,9 +233,6 @@ has led us out of the land of Jerusalem, and weʼve
 wandered in the wilderness all these years.”
 
 —
-
-¹⁸·³I, Nephi, often went up on the mountain, and I of-
-ten prayed to God.
 
 ¹⁸·⁴After I had finished the ship, my brothers saw
 that it was good, and they humbled themselves again
@@ -259,14 +252,11 @@ instructing my people.
 ¹⁹·⁷The things which some men esteem to be of great
 worth, both to the body and soul, others set at
 naught. ⁹The world, because of their iniquity, will
-judge Jesus to be a thing of naught. ¹⁸I have writ-
-ten these things that perhaps I might persuade my peo-
-ple to remember God.
+judge Jesus to be a thing of naught.
 
-²²·²³For the time soon comes that all churches which
-are built up to make a profit, and to get power, and
-to become popular in the eyes of the world, must be
-brought low in the dust.
+²²·²³All churches which are built up to make a prof-
+it, and to get power, and to become popular in the
+eyes of the world, must be brought low in the dust.
 
 ²²·³¹If you are obedient to the commandments, and en-
 dure to the end, you will be saved at the last day.
@@ -275,23 +265,21 @@ dure to the end, you will be saved at the last day.
 
 ⁴·¹³Not many days after Lehiʼs death, Laman and Lem-
 uel were angry with me, ⁵·²so they sought to take a-
-way my life.
-
-⁵·⁵God warned me to depart from them, and flee into
-the wilderness along with all those who would go with
-me. ⁶Therefore, I took my family, and Sam, my older
-brother, and Jacob and Joseph, my younger brothers,
-and also my sisters, and their families. All those
-who went with me were those who believed in the
-warnings and revelations of God.
+way my life. ⁵God warned me to depart from them, and
+flee into the wilderness along with all those who
+would go with me. ⁶Therefore, I took my family, and
+Sam, my older brother, and Jacob and Joseph, my young-
+er brothers, and also my sisters, and their families.
+All those who went with me were those who believed in
+the warnings and revelations of God.
 
 ⁵·⁷We journeyed in the wilderness for many days, and
 pitched our tents. ¹⁰We were careful to keep the
 commandments of God in all things. ¹¹We prospered
 greatly, for we sowed seed, reaped in abundance, and
-raised flocks, and herds, and animals of every kind.
+raised flocks, herds, and animals of every kind.
 
-⁵·¹⁴I made many swords so that our enemies would not
+⁵·¹⁴I made many swords so that our enemies wouldnʼt
 come upon us and destroy us.
 
 —
@@ -303,16 +291,16 @@ and transgresses them, and wastes the days of his pro-
 bation.
 
 ⁹·²⁸Oh the vanity, and foolishness of men! When they
-are learned they think they are wise, and they do not
+are learned they think they are wise, and they donʼt
 listen to Godʼs counsel, for they set it aside, sup-
 posing they know of themselves, therefore, their wis-
 dom is foolishness and it does not profit them. ²⁹But
 to be learned is good if they listen to Godʼs
 counsels.
 
-⁹·³⁰Woe to the rich, who despise the poor, and perse-
-cute the meek, and whose hearts are on their
-treasures; therefore, their treasure is their God.
+⁹·³⁰Woe to the rich who despise the poor, persecute
+the meek, and whose hearts are on their treasures;
+therefore, their treasure is their God.
 
 ⁹·³⁴Woe to the liar, ³⁵to the murderer who kills de-
 liberately, ³⁶and to those who commit fornication.
@@ -322,7 +310,7 @@ the mind set on the spirit is eternal life. ⁴⁵Turn a-
 way from your sins. ⁴⁶Prepare your souls for the day
 of judgment.
 
-⁹·⁵¹Do not spend money on what has no value, nor your
+⁹·⁵¹Donʼt spend money on what has no value, nor your
 labor on what cannot satisfy.
 
 ¹⁰·²³Cheer up your hearts, and remember that you are
@@ -347,8 +335,8 @@ vy, strife, and malice. ²²The devil leads them by the
 neck with a flaxen cord until he binds them with his
 strong cords forever.
 
-²⁶·²³God does not work in darkness. ²⁵Does he say to
-anyone, “Depart from me?” No. ²⁶Has he commanded any-
+²⁶·²³God doesnʼt work in darkness. ²⁵Does he say to
+anyone, “Depart from me”? No. ²⁶Has he commanded any-
 one to depart from the houses of worship? No.
 
 ²⁶·²⁹He commands that there shall be no priestcrafts,
@@ -381,19 +369,19 @@ lashes, and at last we will be saved.”
 
 ²⁸·¹²Because of pride their churches have become
 corrupted. ¹³They rob the poor because of their fine
-sanctuaries, and their fine clothing. They persecute
+sanctuaries and their fine clothing. They persecute
 the meek and the poor in heart, because in their
 pride they have become arrogant.
 
 ²⁸·¹⁶Woe to those who turn aside the just for noth-
-ing, and revile against what is good, and say that it
+ing, and revile against what is good and say that it
 has no worth! ²⁹Woe to him who says, “We have re-
 ceived the word of God, and we need no more of the
 word of God, for we have enough!”
 
 ²⁸·³⁰God says, “To him who receives I will give more.
 From them who say, ‘We have enough,’ will be taken a-
-way whatever they have.”
+way whatever they have.
 
 ²⁹·³“Some will say, ‘We have a Bible, and there can-
 not be any more Bible.’ ¹⁰Because you have a Bible
@@ -409,9 +397,6 @@ revealed.
 ³²·⁸Know that you must pray, for the evil spirit
 teaches a man that he must not pray.
 
-³³·¹⁰Listen to these words and believe in Christ, for
-they teach all men to do good.
-
 # Jacob
 
 ¹·²Nephi gave me, Jacob, a commandment to write a few
@@ -425,12 +410,12 @@ wickedness, ¹⁷therefore I gave them these words:
 ver, and precious ores, ¹³and providence has smiled
 on you most pleasingly, that you have obtained many
 riches. Because some of you have obtained more abun-
-dantly than others you are lifted up in the pride of
+dantly than others, you are lifted up in the pride of
 your hearts because of the costliness of your appar-
 el, and persecute others because you suppose that you
 are better than they.  ¹⁴Do you suppose that God
 justifies you in this thing? No, but he condemns you,
-and if you persist his judgments will speedily come
+and if you persist, his judgments will speedily come
 to you.
 
 ²·¹⁷Think of others like yourselves, be familiar with
@@ -458,10 +443,10 @@ mercy.
 
 # Zeniff
 
-⁰Taken from chapters 11-23 of the Book of Mosiah.
+⁰Abridged from chapters 11-23 of the Book of Mosiah
 
 ¹¹·¹Zeniff conferred the kingdom on Noah, one of his
-sons. ²Noah did not keep Godʼs commandments, but
+sons. ²Noah didnʼt keep Godʼs commandments, but
 followed the desires of his own heart. ³He imposed a
 tax of one fifth of all the people possessed ⁴to sup-
 port himself, and his priests.
@@ -475,18 +460,18 @@ brought into bondage.’”
 ¹¹·²⁷When king Noah heard of Abinadiʼs words, he was
 angry. He said, “Who is Abinadi that he should judge
 me and my people, or who is God to bring such great
-affliction on my people? ²⁸Bring Abinadi here that I
-may kill him.”
+affliction on my people? ²⁸Bring Abinadi here so I
+can kill him.”
 
 ¹²·⁹They took him and carried him bound before the
 king. ²⁹Abinadi said to the priests, “Why do you set
 your hearts on riches? Why do you spend your strength
-with prostitutes?”
+with prostitutes?
 
 ¹³·⁴“Youʼre angry with me because Iʼve told you the
 truth. ¹⁵·²⁶But fear and tremble before God, for he
 redeems none who have wilfully rebelled against him,
-who have known his commandments, and refused to keep
+who have known his commandments and refused to keep
 them.”
 
 ¹⁷·¹The king commanded the priests to take Abinadi
@@ -509,14 +494,14 @@ ken.
 death unless you take back all the evil youʼve spo-
 ken about me and my people.”
 
-¹⁷·⁹Abinadi said to him, “I will not take back what
-Iʼve spoken to you, for it is true. ¹⁰It will stand
-as a testimony against you at the last day.”
+¹⁷·⁹Abinadi said, “I will not take back what Iʼve spo-
+ken, for it is true. ¹⁰It will stand as a testimony
+against you at the last day.”
 
 ¹⁷·¹¹King Noah was about to release him, for he
 feared that Godʼs judgments would come upon him.
 ¹²But the priests said, “He has reviled the king.”
-Therefore the king was incited to anger against him,
+Therefore, the king was incited to anger against him,
 and delivered him to be killed.
 
 ¹⁷·²⁰Abinadi suffered death by fire because he would
@@ -536,7 +521,7 @@ citing the people to rebellion against him, there-
 fore he sent his army to destroy them.
 
 ²³·¹Now Alma, having been warned by God, told his peo-
-ple, therefore they gathered together their flocks,
+ple, therefore they gathered together their flocks
 and their grain, and ³they fled eight daysʼ journey
 into the wilderness.
 
@@ -564,9 +549,9 @@ should be no contention among them.
 ¹·²King Benjamin had three sons, and he caused them
 to be taught so that they might become men of under-
 standing. ³He also taught them about the records
-which were engraved on the brass plates, saying: “My
-sons, ⁴it wasnʼt possible for our father, Lehi, to re-
-member all these things; but he could read these
+which were engraved on the brass plates: “My sons,
+⁴it wasnʼt possible for our father, Lehi, to remem-
+ber all these things; but he could read these
 engravings, and teach them to his children, that they
 could teach them to their children, even down to the
 present time.”
@@ -574,17 +559,18 @@ present time.”
 —
 
 ¹·⁹King Benjamin grew old, and saw that he must very
-soon go the way of all the earth. ¹⁰Therefore, he
-¹⁸proclaimed to all the people to gather themselves
-together to hear his words.
+soon go the way of all the earth. ¹⁸Therefore, he
+proclaimed to all the people to gather themselves to-
+gether to hear his words.
 
 ²·⁵When they arrived, they pitched their tents on eve-
 ry side, every family being separate from one anoth-
 er.
 
-²·⁸He caused his words to be written and sent to
-those who could not hear him, that they might also re-
-ceive his words. ⁹These are the words which he spoke:
+²·⁸King Benjamin caused his words to be written and
+sent to those who could not hear him, that they might
+also receive his words. ⁹These are the words which he
+spoke:
 
 —
 
@@ -643,20 +629,21 @@ will not allow your children to go hungry, or naked,
 or to transgress Godʼs laws and fight and quarrel
 with one another. ¹⁵But you will teach them to walk
 in the ways of sober truth, to love one another, and
-to serve one another. ¹⁶You will help those who need
-your help. You will give of your possessions to him
-who stands in need. You wonʼt allow the beggar to pe-
-tition you in vain, and turn him away to perish.
+to serve one another.
 
-⁴·¹⁷Perhaps you will say, “The man has brought his
-misery on himself, therefore I wonʼt give him of my
-food, or of my possessions, for his punishments are
-just.” ¹⁸Whoever does this has great cause to re-
-pent. Unless he repents he perishes forever, and has
-no part in the kingdom of God. ¹⁹For arenʼt we all
-beggars? Donʼt we all depend on God for all our
-possessions, for food and clothing, for gold and sil-
-ver, and for all our riches of every kind?
+⁴·¹⁶You will help those who need your help. You will
+give of your possessions to him who stands in need.
+You wonʼt allow the beggar to petition you in vain,
+and turn him away to perish. ¹⁷Perhaps you will say,
+“The man has brought his misery on himself, there-
+fore I wonʼt give him of my food, or of my
+possessions, for his punishments are just.” ¹⁸Whoev-
+er does this has great cause to repent. Unless he
+repents he perishes forever, and has no part in the
+kingdom of God. ¹⁹For arenʼt we all beggars? Donʼt we
+all depend on God for all our possessions, for food
+and clothing, for gold and silver, and for all our
+riches of every kind?
 
 ⁴·²²If you judge the man who petitions you for your
 possessions, that he perish not, and condemn him, how
@@ -674,7 +661,7 @@ give.” ²⁵If you say this in your hearts you remain
 guiltless. Otherwise you are condemned, for you cov-
 et what you have not received.
 
-⁴·²⁶To retain forgiveness of your sins: Share your
+⁴·²⁶To retain forgiveness of your sins, share your
 possessions with the poor, every man according to
 what he has, such as feeding the hungry, clothing the
 naked, visiting the sick and helping them, both
@@ -690,13 +677,14 @@ should return the thing, as he has agreed, or else
 you will sin; and perhaps you will cause your neigh-
 bor to sin also.
 
-⁴·³⁰If you do not watch yourselves, and your
-thoughts, and your words, and your deeds, and ob-
-serve Godʼs commandments, even until the end of your
-lives, you must perish. ⁵·¹³How does a man know the
-master whom he has not served, and who is a stranger
-to him, and is far from the thoughts and intents of
-his heart?
+⁴·³⁰If you donʼt watch yourselves, and your thoughts,
+and your words, and your deeds, and observe Godʼs
+commandments, even until the end of your lives, you
+must perish.
+
+⁵·¹³How does a man know the master whom he has not
+served, and who is a stranger to him, and is far from
+the thoughts and intents of his heart?
 
 —
 
@@ -710,39 +698,38 @@ them, preaching repentance and faith on God.
 
 ²⁸·¹⁰King Mosiah had no one to confer the kingdom on,
 for none of his sons would accept the kingdom.
-¹¹Therefore he took the records ²⁰and conferred them
+¹¹Therefore, he took the records ²⁰and conferred them
 on Alma, who was the son of Alma, and commanded him
 to keep and preserve them, and also to keep a record
 of the people, handing them down from one generation
 to the next.
 
-²⁹·⁴King Mosiah wrote to the people saying, ⁵“You
-want to have a king. ⁶He to whom the kingdom rightly
-belongs has declined. ⁷If I appoint another in his
-place, I fear there would arise contentions which
-would cause wars, which would destroy the souls of
-many people.”
+²⁹·⁴King Mosiah wrote to the people, ⁵“You want to
+have a king. ⁶He to whom the kingdom rightly belongs
+has declined. ⁷If I appoint another in his place, I
+fear there would arise contentions which would cause
+wars, which would destroy the souls of many people.
 
 ²⁹·¹⁰“Let us be wise and anticipate these things, and
-do what will make for peace. ¹¹Therefore I will be
+do what will make for peace. ¹¹Therefore, I will be
 your king for the rest of my life. Nevertheless, let
-us appoint judges, to judge this people according to
+us appoint judges to judge this people according to
 our law, and we will newly arrange the affairs of
-this people.”
+this people.
 
 ²⁹·¹⁶“Because all men are not just, it is not expedi-
 ent to have a king or kings to rule over you. ¹⁷For
-behold, how much iniquity does one wicked king cause
-to be committed, and what great destruction!”
+behold how much iniquity one wicked king causes, and
+what great destruction!
 
 ²⁹·²¹“You can only dethrone an iniquitous king
-through much contention, and bloodshed. ²²For he has
+through much contention and bloodshed. ²²For he has
 his friends in iniquity, and he keeps his guards a-
 round him, and he tears up the laws of those who have
 reigned in righteousness before him, and he tramples
 Godʼs commandments under his feet, ²³and he enacts
-laws according to his own wickedness, and whoever
-does not obey his laws he causes to be destroyed.”
+laws according to his own wickedness, and he destroys
+whoever doesnʼt obey his laws.
 
 ²⁹·²⁵“Therefore, choose judges by the voice of the
 people, that you may be judged according to the laws
