@@ -3,12 +3,12 @@
 
 # Priorities
 
-⁰You have reason and conscience to govern your
-choices. The following priorities are a guide to keep
-conscience within proper bounds. They are listed by
-decreasing importance. Try to observe all the
-priorities. If two must conflict, prefer the more im-
-portant one:
+    You have reason and conscience to govern your
+    choices. The following priorities are a guide
+    to keep conscience within proper bounds. They
+     are listed by decreasing importance. Try to
+     observe all the priorities. If two must con-
+        flict, prefer the more important one.
 
 ¹Compulsion may only be used to stop an immediate
 threat to life, property, or free will. ²Choose what
@@ -51,12 +51,13 @@ roundings.
 
 # Virtues
 
-⁰Every virtue taken to extreme becomes vice. The vir-
-tues below are listed in pairs. Balance the two vir-
-tues in a pair. If youʼre unsure how to balance them,
-err on the side of the first. The pairs are listed al-
-phabetically with no relative importance intended be-
-tween them:
+     Every virtue taken to extreme becomes vice.
+     The virtues below are listed in pairs. Bal-
+    ance the two virtues in a pair. If youʼre un-
+     sure how to balance them, err on the side of
+    the first. The pairs are listed alphabetical-
+     ly with no relative importance intended be-
+                     tween them.
 
 ¹Challenge, comfort. ²Companionship, solitude. ³Con-
 tentment, ambition. ⁴Detachment, attachment. ⁵Flexi-
